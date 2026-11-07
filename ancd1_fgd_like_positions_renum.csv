@@ -1,0 +1,14 @@
+column,ancd1_pos,FGD_anc,FSD_anc,post_FGD,post_FSD,confident,ancd1_residue,ancd1_pos_TRIMMED,ancd1_residue_check
+50,54,A,P,0.994,1.0,yes,A,50,A
+100,105,T,S,1.0,1.0,yes,T,100,T
+103,108,A,S,1.0,1.0,yes,A,103,A
+166,172,A,G,1.0,0.997,yes,A,166,A
+174,180,K,R,0.933,1.0,yes,K,174,K
+180,186,G,A,1.0,0.936,yes,G,180,G
+236,245,F,Y,1.0,0.918,yes,F,236,F
+243,252,T,S,0.992,0.98,yes,T,243,T
+247,257,H,T,1.0,1.0,yes,H,247,H
+267,279,K,S,1.0,1.0,yes,K,267,K
+283,295,K,Q,0.996,0.831,yes,K,283,K
+286,298,V,L,0.97,0.81,yes,V,286,V
+307,319,E,K,0.979,0.979,yes,E,307,E
