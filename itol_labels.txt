@@ -1,0 +1,12 @@
+LABELS
+SEPARATOR TAB
+DATA
+seq0001	AncD1 (this study)
+seq0002	FGD1_Mtub
+seq0003	FGD2_Mtub (excluded)
+seq0004	FGD1_Rjos
+seq0005	FSD_Noca
+seq0009	FSD_Cryar
+seq0080	I0HF48
+seq0091	C5C430
+seq0142	E5XVG1

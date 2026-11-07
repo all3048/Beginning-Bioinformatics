@@ -1,0 +1,290 @@
+IQ-TREE multicore version 2.0.7 for Linux 64-bit built Apr  1 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    f515bafb09ab (AVX2, FMA3, 12 GB RAM)
+Command: iqtree -s aln_trimmed.fasta -te tree_rooted_outgroup.nwk -m LG+F+I+G4 --ancestral -nt 2 -redo -pre ancd1_asr
+Seed:    919473 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Nov  7 19:42:08 2026
+Kernel:  AVX+FMA - 2 threads (2 CPU cores detected)
+
+Reading alignment file aln_trimmed.fasta ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 239 sequences with 313 columns, 313 distinct patterns
+293 parsimony-informative, 17 singleton sites, 3 constant sites
+         Gap/Ambiguity  Composition  p-value
+   1  seq0001    0.00%    passed     93.12%
+   2  seq0002    0.00%    passed     99.97%
+   3  seq0003    1.92%    passed     21.66%
+   4  seq0004    0.00%    passed     99.93%
+   5  seq0005    0.00%    passed     95.08%
+   6  seq0006    0.00%    failed      0.03%
+   7  seq0007    2.88%    passed     13.90%
+   8  seq0008   39.94%    failed      0.63%
+   9  seq0009    0.00%    passed     98.89%
+  10  seq0010    0.00%    failed      1.12%
+  11  seq0011    0.00%    passed     17.94%
+  12  seq0012    0.00%    failed      0.01%
+  13  seq0013    0.00%    failed      0.00%
+  14  seq0014    0.00%    passed     25.54%
+  15  seq0015    0.00%    failed      0.00%
+  16  seq0016    0.00%    failed      0.26%
+  17  seq0017    0.00%    passed     26.25%
+  18  seq0018    0.00%    passed     20.73%
+  19  seq0019    0.00%    passed     17.29%
+  20  seq0020    0.00%    passed     11.14%
+  21  seq0021    0.00%    failed      0.14%
+  22  seq0022    0.00%    passed     40.05%
+  23  seq0023    0.00%    passed     55.27%
+  24  seq0024    0.00%    passed     41.16%
+  25  seq0025    0.00%    failed      0.52%
+  26  seq0026    0.00%    passed     89.60%
+  27  seq0027    0.00%    passed     98.96%
+  28  seq0028    0.00%    passed     73.45%
+  29  seq0029    0.00%    passed     99.96%
+  30  seq0030    0.00%    passed     99.86%
+  31  seq0031    1.92%    failed      0.00%
+  32  seq0032    0.32%    passed     92.50%
+  33  seq0033    0.00%    passed      7.81%
+  34  seq0034    0.00%    passed      8.67%
+  35  seq0035    0.00%    failed      0.00%
+  36  seq0036    0.00%    passed     94.85%
+  37  seq0037    0.00%    passed     80.75%
+  38  seq0038    0.00%    passed     37.44%
+  39  seq0039    0.00%    passed     99.98%
+  40  seq0040    0.00%    failed      1.66%
+  41  seq0041    0.00%    passed      8.51%
+  42  seq0042    0.96%    failed      0.00%
+  43  seq0043    0.00%    failed      1.63%
+  44  seq0044    0.00%    passed     14.69%
+  45  seq0045    0.00%    failed      2.68%
+  46  seq0046    0.00%    failed      0.00%
+  47  seq0047    0.00%    passed      5.84%
+  48  seq0048    0.00%    failed      0.01%
+  49  seq0049    0.00%    passed     98.17%
+  50  seq0050    0.00%    passed     86.02%
+  51  seq0051    0.00%    failed      0.01%
+  52  seq0052    0.00%    failed      1.31%
+  53  seq0053    0.00%    failed      0.00%
+  54  seq0054    0.00%    passed     67.07%
+  55  seq0055    0.00%    failed      0.00%
+  56  seq0056    0.00%    passed      7.98%
+  57  seq0057    0.00%    passed      9.95%
+  58  seq0058    0.00%    passed     89.27%
+  59  seq0059    0.00%    passed     99.59%
+  60  seq0060    0.00%    passed     99.63%
+  61  seq0061    0.00%    passed     93.73%
+  62  seq0062    0.00%    passed     96.90%
+  63  seq0063    0.00%    passed     99.91%
+  64  seq0064    0.00%    passed     97.07%
+  65  seq0065    0.00%    failed      2.53%
+  66  seq0066    0.00%    failed      3.37%
+  67  seq0067    3.19%    passed     68.31%
+  68  seq0068    0.00%    passed     98.71%
+  69  seq0069    0.00%    passed     15.54%
+  70  seq0070    0.00%    passed     39.24%
+  71  seq0071    0.00%    failed      2.45%
+  72  seq0072    0.00%    passed     98.90%
+  73  seq0073    0.00%    passed     94.44%
+  74  seq0074    0.00%    passed     60.86%
+  75  seq0075    0.00%    passed     85.60%
+  76  seq0076    0.00%    passed     93.26%
+  77  seq0077    0.00%    passed     99.55%
+  78  seq0078    0.00%    passed     89.11%
+  79  seq0079    0.00%    passed     97.72%
+  80  seq0080    0.00%    passed     99.17%
+  81  seq0081    0.00%    passed     79.99%
+  82  seq0082    0.00%    passed     97.82%
+  83  seq0083    0.00%    passed     85.90%
+  84  seq0084    0.00%    passed     77.22%
+  85  seq0085    0.00%    passed     77.62%
+  86  seq0086    0.00%    passed     99.89%
+  87  seq0087    0.00%    passed     97.90%
+  88  seq0088    0.00%    passed     88.31%
+  89  seq0089    0.00%    passed     99.86%
+  90  seq0090    0.00%    passed     98.59%
+  91  seq0091    0.00%    passed     74.40%
+  92  seq0092    0.00%    failed      4.92%
+  93  seq0093    0.00%    passed     99.25%
+  94  seq0094    0.00%    passed     95.04%
+  95  seq0095    0.00%    passed     95.05%
+  96  seq0096    0.00%    passed     96.57%
+  97  seq0097    0.00%    passed     99.48%
+  98  seq0098    0.00%    passed     26.03%
+  99  seq0099    0.00%    passed     85.31%
+ 100  seq0100    0.00%    passed     96.00%
+ 101  seq0101    0.00%    passed     95.57%
+ 102  seq0102    0.00%    passed     99.20%
+ 103  seq0103    0.00%    passed     90.30%
+ 104  seq0104    0.00%    passed     89.71%
+ 105  seq0105    0.00%    passed     82.22%
+ 106  seq0106    0.00%    passed     88.11%
+ 107  seq0107    0.00%    passed     88.90%
+ 108  seq0108    0.00%    passed     14.37%
+ 109  seq0109    0.00%    passed     96.48%
+ 110  seq0110    0.00%    passed     94.41%
+ 111  seq0111    0.00%    passed     99.80%
+ 112  seq0112    0.00%    passed     98.21%
+ 113  seq0113    0.00%    passed     98.90%
+ 114  seq0114    0.00%    passed     99.93%
+ 115  seq0115    0.00%    passed     91.76%
+ 116  seq0116    0.00%    passed     99.05%
+ 117  seq0117    0.00%    passed     67.46%
+ 118  seq0118    0.00%    passed     89.79%
+ 119  seq0119    0.00%    passed     96.34%
+ 120  seq0120    0.00%    failed      0.18%
+ 121  seq0121    0.00%    passed     99.93%
+ 122  seq0122    0.00%    passed     81.68%
+ 123  seq0123    0.00%    passed     99.76%
+ 124  seq0124    0.00%    passed     95.75%
+ 125  seq0125    0.00%    passed     38.01%
+ 126  seq0126    0.00%    passed     89.31%
+ 127  seq0127    0.00%    passed     78.07%
+ 128  seq0128    0.00%    passed     85.18%
+ 129  seq0129    0.00%    passed     99.75%
+ 130  seq0130    0.00%    passed     99.88%
+ 131  seq0131    0.00%    passed     28.81%
+ 132  seq0132    0.00%    passed     96.85%
+ 133  seq0133    0.00%    passed     98.99%
+ 134  seq0134    0.00%    passed     99.52%
+ 135  seq0135    0.96%    failed      0.01%
+ 136  seq0136    0.00%    failed      2.13%
+ 137  seq0137    0.00%    passed     96.17%
+ 138  seq0138    0.00%    passed     99.94%
+ 139  seq0139    0.00%    passed     99.98%
+ 140  seq0140    0.00%    passed     82.59%
+ 141  seq0141    0.00%    passed     57.19%
+ 142  seq0142    0.00%    passed     99.28%
+ 143  seq0143    0.00%    passed     99.94%
+ 144  seq0144    0.00%    passed     92.26%
+ 145  seq0145    0.00%    passed     95.98%
+ 146  seq0146    0.00%    passed     97.51%
+ 147  seq0147    0.00%    passed     97.15%
+ 148  seq0148    0.00%    passed     52.33%
+ 149  seq0149    0.00%    passed     77.10%
+ 150  seq0150    0.00%    passed     98.62%
+ 151  seq0151    0.00%    passed     86.07%
+ 152  seq0152    0.00%    passed     90.53%
+ 153  seq0153    0.00%    passed     89.93%
+ 154  seq0154    0.00%    passed     95.31%
+ 155  seq0155    0.00%    passed     99.87%
+ 156  seq0156    0.00%    passed     61.87%
+ 157  seq0157    0.00%    passed    100.00%
+ 158  seq0158    0.00%    passed     99.92%
+ 159  seq0159    0.00%    passed     99.68%
+ 160  seq0160    0.00%    passed     99.88%
+ 161  seq0161    0.00%    passed     97.72%
+ 162  seq0162    0.00%    passed     99.99%
+ 163  seq0163    0.00%    passed     99.36%
+ 164  seq0164    0.00%    passed     95.05%
+ 165  seq0165    0.00%    passed     92.15%
+ 166  seq0166    0.00%    passed     88.31%
+ 167  seq0167    0.00%    passed     98.89%
+ 168  seq0168    0.00%    passed     99.14%
+ 169  seq0169    0.00%    passed     97.52%
+ 170  seq0170    0.00%    passed     94.29%
+ 171  seq0171    0.00%    passed     96.63%
+ 172  seq0172    0.64%    passed     95.33%
+ 173  seq0173    0.00%    passed     99.99%
+ 174  seq0174    0.00%    passed     99.99%
+ 175  seq0175    0.00%    passed     99.91%
+ 176  seq0176    0.00%    passed     99.26%
+ 177  seq0177    0.00%    passed     93.27%
+ 178  seq0178    0.00%    passed     99.76%
+ 179  seq0179    0.00%    passed     99.45%
+ 180  seq0180    0.00%    passed     98.90%
+ 181  seq0181    0.00%    passed     82.84%
+ 182  seq0182    0.00%    passed     92.74%
+ 183  seq0183    0.00%    passed     95.11%
+ 184  seq0184    0.00%    passed     53.46%
+ 185  seq0185    0.00%    passed     99.91%
+ 186  seq0186    0.00%    passed     98.29%
+ 187  seq0187    0.00%    passed     99.83%
+ 188  seq0188    0.00%    passed     99.86%
+ 189  seq0189    0.00%    passed     99.00%
+ 190  seq0190    0.00%    passed     98.44%
+ 191  seq0191    0.00%    passed     99.86%
+ 192  seq0192    0.00%    passed    100.00%
+ 193  seq0193    0.00%    passed     99.86%
+ 194  seq0194    0.00%    passed     94.78%
+ 195  seq0195    0.00%    passed     85.77%
+ 196  seq0196    0.00%    passed     99.14%
+ 197  seq0197    0.00%    passed     99.52%
+ 198  seq0198    0.00%    passed     99.85%
+ 199  seq0199    0.00%    passed     99.68%
+ 200  seq0200    0.00%    passed     82.22%
+ 201  seq0201    0.00%    passed     88.70%
+ 202  seq0202    0.00%    passed     97.16%
+ 203  seq0203    0.00%    passed     87.62%
+ 204  seq0204    0.00%    passed     99.40%
+ 205  seq0205    0.00%    passed     99.92%
+ 206  seq0206    0.00%    passed     99.98%
+ 207  seq0207    0.00%    passed     97.55%
+ 208  seq0208    0.00%    passed     99.08%
+ 209  seq0209    0.00%    passed     99.59%
+ 210  seq0210    0.32%    passed     99.31%
+ 211  seq0211    0.00%    passed     98.93%
+ 212  seq0212    0.00%    passed     77.02%
+ 213  seq0213    0.00%    passed     98.32%
+ 214  seq0214    0.00%    passed     94.15%
+ 215  seq0215    0.00%    passed     96.75%
+ 216  seq0216    0.00%    passed     98.21%
+ 217  seq0217    0.00%    passed     99.43%
+ 218  seq0218    0.00%    passed     99.79%
+ 219  seq0219    0.00%    passed     99.96%
+ 220  seq0220    0.00%    passed     99.94%
+ 221  seq0221    0.00%    passed     92.25%
+ 222  seq0222    0.00%    passed     79.71%
+ 223  seq0223    0.00%    passed     99.13%
+ 224  seq0224    0.00%    passed     99.67%
+ 225  seq0225    0.00%    passed     99.30%
+ 226  seq0226    0.00%    passed    100.00%
+ 227  seq0227    0.00%    passed     45.88%
+ 228  seq0228    0.00%    passed     83.36%
+ 229  seq0229    0.00%    passed     99.63%
+ 230  seq0230    0.00%    passed     95.23%
+ 231  seq0231    0.00%    passed     96.24%
+ 232  seq0232    0.00%    passed     64.14%
+ 233  seq0233    0.00%    passed     56.30%
+ 234  seq0234    0.00%    passed     99.64%
+ 235  seq0235    0.00%    passed     89.03%
+ 236  seq0236    0.00%    passed     89.44%
+ 237  seq0237    0.32%    passed     92.60%
+ 238  seq0238    0.00%    passed     99.92%
+ 239  seq0239    0.00%    passed     97.28%
+****  TOTAL      0.22%  28 sequences failed composition chi2 test (p-value<5%; df=19)
+Reading input tree file tree_rooted_outgroup.nwk ... rooted tree
+
+NOTE: 49 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
+Init pinv, alpha: 0.001, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
+Init pinv, alpha: 0.002, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
+Init pinv, alpha: 0.003, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
+Init pinv, alpha: 0.004, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
+Init pinv, alpha: 0.005, 1.000 / Estimate: 0.008, 0.997 / LogL: -59084.968
+Init pinv, alpha: 0.006, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
+Init pinv, alpha: 0.007, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
+Init pinv, alpha: 0.009, 1.000 / Estimate: 0.008, 0.997 / LogL: -59084.968
+Init pinv, alpha: 0.010, 1.000 / Estimate: 0.008, 0.997 / LogL: -59084.968
+Optimal pinv,alpha: 0.008, 0.997 / LogL: -59084.968
+
+Parameters optimization took 31.931 sec
+BEST SCORE FOUND : -59084.968
+Ancestral state probabilities printed to ancd1_asr.state
+Total tree length: 65.900
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 57.601 sec (0h:0m:57s)
+Total wall-clock time used: 32.932 sec (0h:0m:32s)
+
+Analysis results written to: 
+  IQ-TREE report:                ancd1_asr.iqtree
+  Maximum-likelihood tree:       ancd1_asr.treefile
+  Ancestral state:               ancd1_asr.state
+  Screen log file:               ancd1_asr.log
+
+Date and Time: Sat Nov  7 19:42:41 2026

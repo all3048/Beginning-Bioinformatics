@@ -1,0 +1,23 @@
+# Conda environment for the AncD1 phylogeny / SDP analysis
+# Create with:  conda env create -f environment.yml && conda activate ancd1
+name: ancd1
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - biopython=1.83
+  - numpy=1.26
+  - matplotlib=3.8
+  - openpyxl=3.1
+  - requests=2.31
+  - pillow=10.3
+  # external tools
+  - mafft=7.505
+  - clustalo=1.2.4
+  - trimal=1.4.1
+  - iqtree=2.0.7
+  - cd-hit=4.8.1
+  - pip
+  - pip:
+      - pandas==2.2.2

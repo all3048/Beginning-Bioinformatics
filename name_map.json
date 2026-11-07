@@ -1,0 +1,1675 @@
+{
+ "seq0001": {
+  "original": "AncD1",
+  "label": "AncD1",
+  "accession": "THIS_STUDY",
+  "clade": "ANCESTOR",
+  "description": "AncD1 ancestral node | THIS STUDY"
+ },
+ "seq0002": {
+  "original": "FGD1_Mtub|P9WNE1|DH2_FGD",
+  "label": "FGD1_Mtub",
+  "accession": "P9WNE1",
+  "clade": "DH2_FGD",
+  "description": "FGD1_Mtub|P9WNE1|DH2_FGD G6P-specific; PDB 3B4Y"
+ },
+ "seq0003": {
+  "original": "FGD2_Mtub|P96809|DH2_FGD",
+  "label": "FGD2_Mtub",
+  "accession": "P96809",
+  "clade": "DH2_FGD",
+  "description": "FGD2_Mtub|P96809|DH2_FGD Mtb paralog"
+ },
+ "seq0004": {
+  "original": "FGD1_Rjos|Q0RVH7|DH2_FGD",
+  "label": "FGD1_Rjos",
+  "accession": "Q0RVH7",
+  "clade": "DH2_FGD",
+  "description": "FGD1_Rjos|Q0RVH7|DH2_FGD PDB 5LXE"
+ },
+ "seq0005": {
+  "original": "FSD_Noca|E9V3D1|DH3_FSD",
+  "label": "FSD_Noca",
+  "accession": "E9V3D1",
+  "clade": "DH3_FSD",
+  "description": "FSD_Noca|E9V3D1|DH3_FSD promiscuous clade"
+ },
+ "seq0006": {
+  "original": "Adf_Mthe|O93734|DH1_ADH",
+  "label": "Adf_Mthe",
+  "accession": "O93734",
+  "clade": "DH1_ADH",
+  "description": "Adf_Mthe|O93734|DH1_ADH F420 alcohol DH; PDB 1RHC"
+ },
+ "seq0007": {
+  "original": "PtdKR_Mbov|Q7TXK4|DH1_ADH",
+  "label": "PtdKR_Mbov",
+  "accession": "Q7TXK4",
+  "clade": "DH1_ADH",
+  "description": "PtdKR_Mbov|Q7TXK4|DH1_ADH phthiodiolone ketoreductase"
+ },
+ "seq0008": {
+  "original": "AlaRac_Tmar|E6SIZ8|OUTGROUP",
+  "label": "AlaRac_Tmar",
+  "accession": "E6SIZ8",
+  "clade": "OUTGROUP",
+  "description": "AlaRac_Tmar|E6SIZ8|OUTGROUP rooting outgroup"
+ },
+ "seq0009": {
+  "original": "FSD_Cryar|WP_035860858.1|DH3_FSD",
+  "label": "FSD_Cryar",
+  "accession": "WP_035860858.1",
+  "clade": "DH3_FSD",
+  "description": "FSD_Cryar|WP_035860858.1|DH3_FSD kinetically characterized"
+ },
+ "seq0010": {
+  "original": "A0A326UB49",
+  "label": "A0A326UB49",
+  "accession": "A0A326UB49",
+  "clade": "homolog",
+  "description": "A0A326UB49 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Thermosporothrix hazakensis OX=644383 GN=EI42_024"
+ },
+ "seq0011": {
+  "original": "A0A0E3SGU0",
+  "label": "A0A0E3SGU0",
+  "accession": "A0A0E3SGU0",
+  "clade": "homolog",
+  "description": "A0A0E3SGU0 5,10-methylenetetrahydromethanopterin reductase OS=Methanosarcina horonobensis HB-1 = JCM 15518 OX=1434110 GN="
+ },
+ "seq0012": {
+  "original": "A0A8E7B2Y8",
+  "label": "A0A8E7B2Y8",
+  "accession": "A0A8E7B2Y8",
+  "clade": "homolog",
+  "description": "A0A8E7B2Y8 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Methanospirillum purgamenti OX=2834276 GN=KHC33_06"
+ },
+ "seq0013": {
+  "original": "A0AAE3H8V2",
+  "label": "A0AAE3H8V2",
+  "accession": "A0AAE3H8V2",
+  "clade": "homolog",
+  "description": "A0AAE3H8V2 F420-dependent oxidoreductase OS=Methanolobus chelungpuianus OX=502115 GN=PV02_03985 PE=4 SV=1"
+ },
+ "seq0014": {
+  "original": "A0A060HJU9",
+  "label": "A0A060HJU9",
+  "accession": "A0A060HJU9",
+  "clade": "homolog",
+  "description": "A0A060HJU9 Putative coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Nitrososphaera viennensis EN76 OX=926571"
+ },
+ "seq0015": {
+  "original": "A0A557SXX8",
+  "label": "A0A557SXX8",
+  "accession": "A0A557SXX8",
+  "clade": "homolog",
+  "description": "A0A557SXX8 F420-dependent oxidoreductase, G6PDH family OS=Candidatus Nitrosocosmicus arcticus OX=2035267 GN=NARC_30157 PE"
+ },
+ "seq0016": {
+  "original": "A0A660HPI1",
+  "label": "A0A660HPI1",
+  "accession": "A0A660HPI1",
+  "clade": "homolog",
+  "description": "A0A660HPI1 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Methanosarcina flavescens OX=1715806 GN=AOB57_0023"
+ },
+ "seq0017": {
+  "original": "A0ABD5NS25",
+  "label": "A0ABD5NS25",
+  "accession": "A0ABD5NS25",
+  "clade": "homolog",
+  "description": "A0ABD5NS25 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Halovivax cerinus OX=1487865 GN=ACFOUR_14190 PE=4"
+ },
+ "seq0018": {
+  "original": "A0ABQ3V146",
+  "label": "A0ABQ3V146",
+  "accession": "A0ABQ3V146",
+  "clade": "homolog",
+  "description": "A0ABQ3V146 F420-dependent glucose-6-phosphate dehydrogenase OS=Ktedonobacter robiniae OX=2778365 GN=fgd_2 PE=4 SV=1"
+ },
+ "seq0019": {
+  "original": "Q0W4W5",
+  "label": "Q0W4W5",
+  "accession": "Q0W4W5",
+  "clade": "homolog",
+  "description": "Q0W4W5 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Methanocella arvoryzae (strain DSM 22066 / NBRC 1"
+ },
+ "seq0020": {
+  "original": "A0A402AIG5",
+  "label": "A0A402AIG5",
+  "accession": "A0A402AIG5",
+  "clade": "homolog",
+  "description": "A0A402AIG5 F420-dependent glucose-6-phosphate dehydrogenase OS=Dictyobacter kobayashii OX=2014872 GN=fgd_1 PE=4 SV=1"
+ },
+ "seq0021": {
+  "original": "A0A4E0QU14",
+  "label": "A0A4E0QU14",
+  "accession": "A0A4E0QU14",
+  "clade": "homolog",
+  "description": "A0A4E0QU14 LLM class F420-dependent oxidoreductase OS=Methanolobus halotolerans OX=2052935 GN=CUN85_01260 PE=4 SV=1"
+ },
+ "seq0022": {
+  "original": "D1YYM0",
+  "label": "D1YYM0",
+  "accession": "D1YYM0",
+  "clade": "homolog",
+  "description": "D1YYM0 F420-dependent glucose-6-phosphate dehydrogenase OS=Methanocella paludicola (strain DSM 17711 / JCM 13418 / NB"
+ },
+ "seq0023": {
+  "original": "A0A6B0VFL6",
+  "label": "A0A6B0VFL6",
+  "accession": "A0A6B0VFL6",
+  "clade": "homolog",
+  "description": "A0A6B0VFL6 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Natronorubrum halalkaliphilum OX=2691917 GN=GS429_"
+ },
+ "seq0024": {
+  "original": "A0ABD5XZX6",
+  "label": "A0ABD5XZX6",
+  "accession": "A0ABD5XZX6",
+  "clade": "homolog",
+  "description": "A0ABD5XZX6 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Halosimplex aquaticum OX=3026162 GN=ACFQMA_02810 P"
+ },
+ "seq0025": {
+  "original": "J1L1X2",
+  "label": "J1L1X2",
+  "accession": "J1L1X2",
+  "clade": "homolog",
+  "description": "J1L1X2 F420-dependent oxidoreductase, G6PDH family OS=Methanofollis liminatans DSM 4140 OX=28892 GN=Metli_1075 PE=4 S"
+ },
+ "seq0026": {
+  "original": "A0A838ADI2",
+  "label": "A0A838ADI2",
+  "accession": "A0A838ADI2",
+  "clade": "homolog",
+  "description": "A0A838ADI2 F420-dependent glucose-6-phosphate dehydrogenase OS=Haloechinothrix aidingensis OX=2752311 GN=fgd PE=3 SV=1"
+ },
+ "seq0027": {
+  "original": "A0A840NJG5",
+  "label": "A0A840NJG5",
+  "accession": "A0A840NJG5",
+  "clade": "homolog",
+  "description": "A0A840NJG5 F420-dependent glucose-6-phosphate dehydrogenase OS=Saccharopolyspora gloriosae OX=455344 GN=fgd PE=3 SV=1"
+ },
+ "seq0028": {
+  "original": "A0A7Y4P0P7",
+  "label": "A0A7Y4P0P7",
+  "accession": "A0A7Y4P0P7",
+  "clade": "homolog",
+  "description": "A0A7Y4P0P7 F420-dependent glucose-6-phosphate dehydrogenase OS=Kribbella sandramycini OX=60450 GN=fgd PE=3 SV=1"
+ },
+ "seq0029": {
+  "original": "A0ABN1W7Y3",
+  "label": "A0ABN1W7Y3",
+  "accession": "A0ABN1W7Y3",
+  "clade": "homolog",
+  "description": "A0ABN1W7Y3 F420-dependent glucose-6-phosphate dehydrogenase OS=Prauserella halophila OX=185641 GN=fgd_2 PE=3 SV=1"
+ },
+ "seq0030": {
+  "original": "A0A222VNX8",
+  "label": "A0A222VNX8",
+  "accession": "A0A222VNX8",
+  "clade": "homolog",
+  "description": "A0A222VNX8 F420-dependent glucose-6-phosphate dehydrogenase OS=Prauserella marina OX=530584 GN=fgd PE=3 SV=1"
+ },
+ "seq0031": {
+  "original": "A0A133URK6",
+  "label": "A0A133URK6",
+  "accession": "A0A133URK6",
+  "clade": "homolog",
+  "description": "A0A133URK6 Luciferase-like domain-containing protein OS=candidate division MSBL1 archaeon SCGC-AAA259I14 OX=1698268 GN=AK"
+ },
+ "seq0032": {
+  "original": "A0A1H1XGQ7",
+  "label": "A0A1H1XGQ7",
+  "accession": "A0A1H1XGQ7",
+  "clade": "homolog",
+  "description": "A0A1H1XGQ7 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Actinopolymorpha singaporensis OX=117157 GN=SAMN0"
+ },
+ "seq0033": {
+  "original": "A0A1I5MN97",
+  "label": "A0A1I5MN97",
+  "accession": "A0A1I5MN97",
+  "clade": "homolog",
+  "description": "A0A1I5MN97 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Halolamina pelagica OX=699431 GN=SAMN05216277_101"
+ },
+ "seq0034": {
+  "original": "A0AAW4PV82",
+  "label": "A0AAW4PV82",
+  "accession": "A0AAW4PV82",
+  "clade": "homolog",
+  "description": "A0AAW4PV82 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Haloarcula rubra OX=2487747 GN=EGH21_18800 PE=4 SV"
+ },
+ "seq0035": {
+  "original": "A0A0E3S8N2",
+  "label": "A0A0E3S8N2",
+  "accession": "A0A0E3S8N2",
+  "clade": "homolog",
+  "description": "A0A0E3S8N2 5,10-methylenetetrahydromethanopterin reductase OS=Methanosarcina horonobensis HB-1 = JCM 15518 OX=1434110 GN="
+ },
+ "seq0036": {
+  "original": "A0A1G8AH14",
+  "label": "A0A1G8AH14",
+  "accession": "A0A1G8AH14",
+  "clade": "homolog",
+  "description": "A0A1G8AH14 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Pseudonocardia oroxyli OX=366584 GN=SAMN05216377_"
+ },
+ "seq0037": {
+  "original": "A0A328VA32",
+  "label": "A0A328VA32",
+  "accession": "A0A328VA32",
+  "clade": "homolog",
+  "description": "A0A328VA32 LLM class F420-dependent oxidoreductase OS=Thermogemmatispora tikiterensis OX=1825093 GN=A4R35_03205 PE=4 SV=1"
+ },
+ "seq0038": {
+  "original": "A0AAV3UP75",
+  "label": "A0AAV3UP75",
+  "accession": "A0AAV3UP75",
+  "clade": "homolog",
+  "description": "A0AAV3UP75 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Haladaptatus pallidirubidus OX=1008152 GN=fgd_2 PE=4 SV=1"
+ },
+ "seq0039": {
+  "original": "A0ABW1SW97",
+  "label": "A0ABW1SW97",
+  "accession": "A0ABW1SW97",
+  "clade": "homolog",
+  "description": "A0ABW1SW97 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Longivirga aurantiaca OX=1837743 GN=fgd PE=4 SV=1"
+ },
+ "seq0040": {
+  "original": "A0A1H3VN79",
+  "label": "A0A1H3VN79",
+  "accession": "A0A1H3VN79",
+  "clade": "homolog",
+  "description": "A0A1H3VN79 Luciferase-like monooxygenase OS=Haloplanus vescus OX=555874 GN=SAMN04488065_0112 PE=4 SV=1"
+ },
+ "seq0041": {
+  "original": "A0A419WRS6",
+  "label": "A0A419WRS6",
+  "accession": "A0A419WRS6",
+  "clade": "homolog",
+  "description": "A0A419WRS6 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Halopiger aswanensis OX=148449 GN=ATJ93_1174 PE=4"
+ },
+ "seq0042": {
+  "original": "A0A484IBR2",
+  "label": "A0A484IBR2",
+  "accession": "A0A484IBR2",
+  "clade": "homolog",
+  "description": "A0A484IBR2 Luciferase-like domain-containing protein OS=Candidatus Nitrosocosmicus franklandianus OX=1798806 GN=NFRAN_115"
+ },
+ "seq0043": {
+  "original": "A0A4P6JTL4",
+  "label": "A0A4P6JTL4",
+  "accession": "A0A4P6JTL4",
+  "clade": "homolog",
+  "description": "A0A4P6JTL4 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Ktedonosporobacter rubrisoli OX=2509675 GN=EPA93_2"
+ },
+ "seq0044": {
+  "original": "A0AAV3T118",
+  "label": "A0AAV3T118",
+  "accession": "A0AAV3T118",
+  "clade": "homolog",
+  "description": "A0AAV3T118 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Salarchaeum japonicum OX=555573 GN=fgd PE=4 SV=1"
+ },
+ "seq0045": {
+  "original": "A0A1H3FMT0",
+  "label": "A0A1H3FMT0",
+  "accession": "A0A1H3FMT0",
+  "clade": "homolog",
+  "description": "A0A1H3FMT0 F420-dependent oxidoreductase, G6PDH family OS=Halopenitus persicus OX=1048396 GN=SAMN05216564_10299 PE=4 SV=1"
+ },
+ "seq0046": {
+  "original": "A0A2A2HTG9",
+  "label": "A0A2A2HTG9",
+  "accession": "A0A2A2HTG9",
+  "clade": "homolog",
+  "description": "A0A2A2HTG9 LLM class F420-dependent oxidoreductase OS=Methanosarcina spelaei OX=1036679 GN=ASJ81_19810 PE=4 SV=1"
+ },
+ "seq0047": {
+  "original": "A0A3P3R8R7",
+  "label": "A0A3P3R8R7",
+  "accession": "A0A3P3R8R7",
+  "clade": "homolog",
+  "description": "A0A3P3R8R7 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Halocatena pleomorpha OX=1785090 GN=EIK79_11720 PE"
+ },
+ "seq0048": {
+  "original": "A0A656Z041",
+  "label": "A0A656Z041",
+  "accession": "A0A656Z041",
+  "clade": "homolog",
+  "description": "A0A656Z041 Luciferase-like domain-containing protein OS=candidate division MSBL1 archaeon SCGC-AAA259J03 OX=1698269 GN=AK"
+ },
+ "seq0049": {
+  "original": "A0A8J3INP8",
+  "label": "A0A8J3INP8",
+  "accession": "A0A8J3INP8",
+  "clade": "homolog",
+  "description": "A0A8J3INP8 F420-dependent glucose-6-phosphate dehydrogenase OS=Reticulibacter mediterranei OX=2778369 GN=fgd PE=4 SV=1"
+ },
+ "seq0050": {
+  "original": "A0ABV7YA32",
+  "label": "A0ABV7YA32",
+  "accession": "A0ABV7YA32",
+  "clade": "homolog",
+  "description": "A0ABV7YA32 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Tenggerimyces flavus OX=1708749 GN=ACFOUW_14165 PE"
+ },
+ "seq0051": {
+  "original": "K0IM57",
+  "label": "K0IM57",
+  "accession": "K0IM57",
+  "clade": "homolog",
+  "description": "K0IM57 Putative F420-dependent glucose-6-phosphate dehydrogenase OS=Nitrososphaera gargensis (strain Ga9.2) OX=123708"
+ },
+ "seq0052": {
+  "original": "Q0W0V9",
+  "label": "Q0W0V9",
+  "accession": "Q0W0V9",
+  "clade": "homolog",
+  "description": "Q0W0V9 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Methanocella arvoryzae (strain DSM 22066 / NBRC 1"
+ },
+ "seq0053": {
+  "original": "A0A557SY75",
+  "label": "A0A557SY75",
+  "accession": "A0A557SY75",
+  "clade": "homolog",
+  "description": "A0A557SY75 F420-dependent oxidoreductase, G6PDH family OS=Candidatus Nitrosocosmicus arcticus OX=2035267 GN=NARC_30258 PE"
+ },
+ "seq0054": {
+  "original": "A0A5D5AMP1",
+  "label": "A0A5D5AMP1",
+  "accession": "A0A5D5AMP1",
+  "clade": "homolog",
+  "description": "A0A5D5AMP1 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Natrialba swarupiae OX=2448032 GN=FYC77_19280 PE=4"
+ },
+ "seq0055": {
+  "original": "A0A654LWS7",
+  "label": "A0A654LWS7",
+  "accession": "A0A654LWS7",
+  "clade": "homolog",
+  "description": "A0A654LWS7 F420-dependent glucose-6-phosphate dehydrogenase OS=Candidatus Nitrosocosmicus oleophilus OX=1353260 GN=fgd1_3"
+ },
+ "seq0056": {
+  "original": "A0A8J3HY07",
+  "label": "A0A8J3HY07",
+  "accession": "A0A8J3HY07",
+  "clade": "homolog",
+  "description": "A0A8J3HY07 LLM class F420-dependent oxidoreductase OS=Ktedonospora formicarum OX=2778364 GN=KSX_08750 PE=4 SV=1"
+ },
+ "seq0057": {
+  "original": "A0ABD6AD18",
+  "label": "A0ABD6AD18",
+  "accession": "A0ABD6AD18",
+  "clade": "homolog",
+  "description": "A0ABD6AD18 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Halomarina halobia OX=3033386 GN=ACFQPE_15850 PE=4"
+ },
+ "seq0058": {
+  "original": "A0ABS2CR84",
+  "label": "A0ABS2CR84",
+  "accession": "A0ABS2CR84",
+  "clade": "homolog",
+  "description": "A0ABS2CR84 F420-dependent glucose-6-phosphate dehydrogenase OS=Phycicoccus sonneratiae OX=2807628 GN=fgd PE=3 SV=1"
+ },
+ "seq0059": {
+  "original": "A0A4R1HVP8",
+  "label": "A0A4R1HVP8",
+  "accession": "A0A4R1HVP8",
+  "clade": "homolog",
+  "description": "A0A4R1HVP8 F420-dependent glucose-6-phosphate dehydrogenase OS=Pseudonocardia endophytica OX=401976 GN=fgd PE=3 SV=1"
+ },
+ "seq0060": {
+  "original": "A0A0K1JLH3",
+  "label": "A0A0K1JLH3",
+  "accession": "A0A0K1JLH3",
+  "clade": "homolog",
+  "description": "A0A0K1JLH3 F420-dependent glucose-6-phosphate dehydrogenase OS=Luteipulveratus mongoliensis OX=571913 GN=fgd PE=3 SV=1"
+ },
+ "seq0061": {
+  "original": "A0A4V3I9G2",
+  "label": "A0A4V3I9G2",
+  "accession": "A0A4V3I9G2",
+  "clade": "homolog",
+  "description": "A0A4V3I9G2 F420-dependent glucose-6-phosphate dehydrogenase OS=Terrimesophilobacter mesophilus OX=433647 GN=fgd PE=3 SV=1"
+ },
+ "seq0062": {
+  "original": "A0A6I3IBA7",
+  "label": "A0A6I3IBA7",
+  "accession": "A0A6I3IBA7",
+  "clade": "homolog",
+  "description": "A0A6I3IBA7 F420-dependent glucose-6-phosphate dehydrogenase OS=Arsenicicoccus cauae OX=2663847 GN=fgd PE=3 SV=1"
+ },
+ "seq0063": {
+  "original": "A0A2S1RA33",
+  "label": "A0A2S1RA33",
+  "accession": "A0A2S1RA33",
+  "clade": "homolog",
+  "description": "A0A2S1RA33 F420-dependent glucose-6-phosphate dehydrogenase OS=Dietzia lutea OX=546160 GN=fgd PE=3 SV=1"
+ },
+ "seq0064": {
+  "original": "A0A1N7F226",
+  "label": "A0A1N7F226",
+  "accession": "A0A1N7F226",
+  "clade": "homolog",
+  "description": "A0A1N7F226 F420-dependent glucose-6-phosphate dehydrogenase OS=Williamsia sterculiae OX=1344003 GN=fgd PE=3 SV=1"
+ },
+ "seq0065": {
+  "original": "A0A830FEK0",
+  "label": "A0A830FEK0",
+  "accession": "A0A830FEK0",
+  "clade": "homolog",
+  "description": "A0A830FEK0 F420-dependent glucose-6-phosphate dehydrogenase OS=Halocalculus aciditolerans OX=1383812 GN=fgd PE=4 SV=1"
+ },
+ "seq0066": {
+  "original": "M0DM58",
+  "label": "M0DM58",
+  "accession": "M0DM58",
+  "clade": "homolog",
+  "description": "M0DM58 Luciferase-like, subgroup OS=Halorubrum saccharovorum DSM 1137 OX=1227484 GN=C471_14540 PE=4 SV=1"
+ },
+ "seq0067": {
+  "original": "A0A1X0XT11",
+  "label": "A0A1X0XT11",
+  "accession": "A0A1X0XT11",
+  "clade": "homolog",
+  "description": "A0A1X0XT11 LLM class F420-dependent oxidoreductase OS=Mycobacterium simiae OX=1784 GN=B5M45_24275 PE=4 SV=1"
+ },
+ "seq0068": {
+  "original": "A0A849AFI2",
+  "label": "A0A849AFI2",
+  "accession": "A0A849AFI2",
+  "clade": "homolog",
+  "description": "A0A849AFI2 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Flexivirga aerilata OX=1656889 GN=fgd PE=4 SV=1"
+ },
+ "seq0069": {
+  "original": "A0A8T8E7K0",
+  "label": "A0A8T8E7K0",
+  "accession": "A0A8T8E7K0",
+  "clade": "homolog",
+  "description": "A0A8T8E7K0 LLM class flavin-dependent oxidoreductase OS=Haloterrigena salifodinae OX=2675099 GN=JMJ58_23055 PE=4 SV=1"
+ },
+ "seq0070": {
+  "original": "A0A830GN31",
+  "label": "A0A830GN31",
+  "accession": "A0A830GN31",
+  "clade": "homolog",
+  "description": "A0A830GN31 F420-dependent glucose-6-phosphate dehydrogenase OS=Haloarcula pellucida OX=1427151 GN=fgd PE=4 SV=1"
+ },
+ "seq0071": {
+  "original": "A0ABD5Y5U7",
+  "label": "A0ABD5Y5U7",
+  "accession": "A0ABD5Y5U7",
+  "clade": "homolog",
+  "description": "A0ABD5Y5U7 TIGR03557 family F420-dependent LLM class oxidoreductase OS=Halosimplex aquaticum OX=3026162 GN=ACFQMA_22610 P"
+ },
+ "seq0072": {
+  "original": "C8XBB4",
+  "label": "C8XBB4",
+  "accession": "C8XBB4",
+  "clade": "homolog",
+  "description": "C8XBB4 F420-dependent glucose-6-phosphate dehydrogenase OS=Nakamurella multipartita (strain ATCC 700099 / DSM 44233 /"
+ },
+ "seq0073": {
+  "original": "A0ABT6KRH4",
+  "label": "A0ABT6KRH4",
+  "accession": "A0ABT6KRH4",
+  "clade": "homolog",
+  "description": "A0ABT6KRH4 F420-dependent glucose-6-phosphate dehydrogenase OS=Antiquaquibacter oligotrophicus OX=2880260 GN=fgd PE=3 SV="
+ },
+ "seq0074": {
+  "original": "A0A543DQJ0",
+  "label": "A0A543DQJ0",
+  "accession": "A0A543DQJ0",
+  "clade": "homolog",
+  "description": "A0A543DQJ0 F420-dependent glucose-6-phosphate dehydrogenase OS=Pseudonocardia kunmingensis OX=630975 GN=fgd PE=3 SV=1"
+ },
+ "seq0075": {
+  "original": "A0A917SKW4",
+  "label": "A0A917SKW4",
+  "accession": "A0A917SKW4",
+  "clade": "homolog",
+  "description": "A0A917SKW4 F420-dependent glucose-6-phosphate dehydrogenase OS=Nakamurella endophytica OX=1748367 GN=fgd PE=3 SV=1"
+ },
+ "seq0076": {
+  "original": "A0ABX5VQN9",
+  "label": "A0ABX5VQN9",
+  "accession": "A0ABX5VQN9",
+  "clade": "homolog",
+  "description": "A0ABX5VQN9 F420-dependent glucose-6-phosphate dehydrogenase OS=Georgenia wutianyii OX=2585135 GN=fgd PE=3 SV=1"
+ },
+ "seq0077": {
+  "original": "A0A1M5GFG8",
+  "label": "A0A1M5GFG8",
+  "accession": "A0A1M5GFG8",
+  "clade": "homolog",
+  "description": "A0A1M5GFG8 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Jatrophihabitans endophyticus OX=1206085 GN=SAMN0"
+ },
+ "seq0078": {
+  "original": "A0AAE3W6H1",
+  "label": "A0AAE3W6H1",
+  "accession": "A0AAE3W6H1",
+  "clade": "homolog",
+  "description": "A0AAE3W6H1 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Catenuloplanes indicus OX=137267 GN=J2S42_005964"
+ },
+ "seq0079": {
+  "original": "A0ABT2GGK8",
+  "label": "A0ABT2GGK8",
+  "accession": "A0ABT2GGK8",
+  "clade": "homolog",
+  "description": "A0ABT2GGK8 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Herbiconiux gentiana OX=2970912 GN=fgd PE=4 SV=1"
+ },
+ "seq0080": {
+  "original": "I0HF48",
+  "label": "I0HF48",
+  "accession": "I0HF48",
+  "clade": "homolog",
+  "description": "I0HF48 Putative luciferase-like monooxygenase OS=Actinoplanes missouriensis (strain ATCC 14538 / DSM 43046 / CBS 188."
+ },
+ "seq0081": {
+  "original": "A0AAU0MIA3",
+  "label": "A0AAU0MIA3",
+  "accession": "A0AAU0MIA3",
+  "clade": "homolog",
+  "description": "A0AAU0MIA3 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Microbacterium limosum OX=3079935 GN=fgd PE=4 SV=1"
+ },
+ "seq0082": {
+  "original": "A0ABZ1ICR6",
+  "label": "A0ABZ1ICR6",
+  "accession": "A0ABZ1ICR6",
+  "clade": "homolog",
+  "description": "A0ABZ1ICR6 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Amycolatopsis rhabdoformis OX=1448059 GN=fgd PE=4 SV=1"
+ },
+ "seq0083": {
+  "original": "A0A021VMU4",
+  "label": "A0A021VMU4",
+  "accession": "A0A021VMU4",
+  "clade": "homolog",
+  "description": "A0A021VMU4 F420-dependent oxidoreductase OS=Actinotalea ferrariae CF5-4 OX=948458 GN=N866_08625 PE=4 SV=1"
+ },
+ "seq0084": {
+  "original": "A0ABP5GE22",
+  "label": "A0ABP5GE22",
+  "accession": "A0ABP5GE22",
+  "clade": "homolog",
+  "description": "A0ABP5GE22 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Agromyces tropicus OX=555371 GN=fgd_2 PE=4 SV=1"
+ },
+ "seq0085": {
+  "original": "A0ABP8ETG6",
+  "label": "A0ABP8ETG6",
+  "accession": "A0ABP8ETG6",
+  "clade": "homolog",
+  "description": "A0ABP8ETG6 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Georgenia daeguensis OX=908355 GN=fgd PE=4 SV=1"
+ },
+ "seq0086": {
+  "original": "A0A9E8S8K0",
+  "label": "A0A9E8S8K0",
+  "accession": "A0A9E8S8K0",
+  "clade": "homolog",
+  "description": "A0A9E8S8K0 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Microcella daejeonensis OX=2994971 GN=fgd PE=4 SV=1"
+ },
+ "seq0087": {
+  "original": "A0A3G8ZJJ8",
+  "label": "A0A3G8ZJJ8",
+  "accession": "A0A3G8ZJJ8",
+  "clade": "homolog",
+  "description": "A0A3G8ZJJ8 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Nakamurella antarctica OX=1902245 GN=fgd PE=4 SV=1"
+ },
+ "seq0088": {
+  "original": "A0A6G7YHA6",
+  "label": "A0A6G7YHA6",
+  "accession": "A0A6G7YHA6",
+  "clade": "homolog",
+  "description": "A0A6G7YHA6 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Nocardioides piscis OX=2714938 GN=fgd PE=4 SV=1"
+ },
+ "seq0089": {
+  "original": "A0A849A9U3",
+  "label": "A0A849A9U3",
+  "accession": "A0A849A9U3",
+  "clade": "homolog",
+  "description": "A0A849A9U3 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Nakamurella aerolata OX=1656892 GN=fgd PE=4 SV=1"
+ },
+ "seq0090": {
+  "original": "A0ABQ6KBQ3",
+  "label": "A0ABQ6KBQ3",
+  "accession": "A0ABQ6KBQ3",
+  "clade": "homolog",
+  "description": "A0ABQ6KBQ3 F420-dependent glucose-6-phosphate dehydrogenase OS=Pseudolysinimonas kribbensis OX=433641 GN=fgd PE=4 SV=1"
+ },
+ "seq0091": {
+  "original": "C5C430",
+  "label": "C5C430",
+  "accession": "C5C430",
+  "clade": "homolog",
+  "description": "C5C430 F420-dependent glucose-6-phosphate dehydrogenase OS=Beutenbergia cavernae (strain ATCC BAA-8 / DSM 12333 / CCU"
+ },
+ "seq0092": {
+  "original": "A0A1C4ZVU4",
+  "label": "A0A1C4ZVU4",
+  "accession": "A0A1C4ZVU4",
+  "clade": "homolog",
+  "description": "A0A1C4ZVU4 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Micromonospora marina OX=307120 GN=GA0070215_1212"
+ },
+ "seq0093": {
+  "original": "A0A7W3PKN5",
+  "label": "A0A7W3PKN5",
+  "accession": "A0A7W3PKN5",
+  "clade": "homolog",
+  "description": "A0A7W3PKN5 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Microbacterium halimionae OX=1526413 GN=FHX48_000"
+ },
+ "seq0094": {
+  "original": "A0A917ETQ2",
+  "label": "A0A917ETQ2",
+  "accession": "A0A917ETQ2",
+  "clade": "homolog",
+  "description": "A0A917ETQ2 F420-dependent glucose-6-phosphate dehydrogenase OS=Subtercola lobariae OX=1588641 GN=fgd PE=4 SV=1"
+ },
+ "seq0095": {
+  "original": "A0ABN3QLT4",
+  "label": "A0ABN3QLT4",
+  "accession": "A0ABN3QLT4",
+  "clade": "homolog",
+  "description": "A0ABN3QLT4 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Actinomadura fulvescens OX=46160 GN=fgd PE=4 SV=1"
+ },
+ "seq0096": {
+  "original": "A0ABT0DBJ0",
+  "label": "A0ABT0DBJ0",
+  "accession": "A0ABT0DBJ0",
+  "clade": "homolog",
+  "description": "A0ABT0DBJ0 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Ancylobacter crimeensis OX=2579147 GN=fgd PE=4 SV=1"
+ },
+ "seq0097": {
+  "original": "A0A1B9NE07",
+  "label": "A0A1B9NE07",
+  "accession": "A0A1B9NE07",
+  "clade": "homolog",
+  "description": "A0A1B9NE07 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Microbacterium sediminis OX=904291 GN=A7J15_04805 PE=4 SV"
+ },
+ "seq0098": {
+  "original": "A0A7K1FF88",
+  "label": "A0A7K1FF88",
+  "accession": "A0A7K1FF88",
+  "clade": "homolog",
+  "description": "A0A7K1FF88 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Nakamurella alba OX=2665158 GN=fgd PE=4 SV=1"
+ },
+ "seq0099": {
+  "original": "A0A7S8MWA6",
+  "label": "A0A7S8MWA6",
+  "accession": "A0A7S8MWA6",
+  "clade": "homolog",
+  "description": "A0A7S8MWA6 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Microbacterium schleiferi OX=69362 GN=fgd PE=4 SV=1"
+ },
+ "seq0100": {
+  "original": "A0ABP4W0A1",
+  "label": "A0ABP4W0A1",
+  "accession": "A0ABP4W0A1",
+  "clade": "homolog",
+  "description": "A0ABP4W0A1 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Luedemannella helvata OX=349315 GN=fgd PE=4 SV=1"
+ },
+ "seq0101": {
+  "original": "A0ABP7F1V1",
+  "label": "A0ABP7F1V1",
+  "accession": "A0ABP7F1V1",
+  "clade": "homolog",
+  "description": "A0ABP7F1V1 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Leifsonella bigeumensis OX=433643 GN=fgd_1 PE=4 SV=1"
+ },
+ "seq0102": {
+  "original": "A0ABS4ZI64",
+  "label": "A0ABS4ZI64",
+  "accession": "A0ABS4ZI64",
+  "clade": "homolog",
+  "description": "A0ABS4ZI64 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Microbacterium amylolyticum OX=936337 GN=JOF34_00"
+ },
+ "seq0103": {
+  "original": "A0ABS7HYJ4",
+  "label": "A0ABS7HYJ4",
+  "accession": "A0ABS7HYJ4",
+  "clade": "homolog",
+  "description": "A0ABS7HYJ4 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Microbacterium ureisolvens OX=2781186 GN=fgd PE=4 SV=1"
+ },
+ "seq0104": {
+  "original": "A0A1Y5RTM8",
+  "label": "A0A1Y5RTM8",
+  "accession": "A0A1Y5RTM8",
+  "clade": "homolog",
+  "description": "A0A1Y5RTM8 F420-dependent glucose-6-phosphate dehydrogenase OS=Aquimixticola soesokkakensis OX=1519096 GN=fgd1 PE=4 SV=1"
+ },
+ "seq0105": {
+  "original": "A0A3S9WE72",
+  "label": "A0A3S9WE72",
+  "accession": "A0A3S9WE72",
+  "clade": "homolog",
+  "description": "A0A3S9WE72 F420-dependent glucose-6-phosphate dehydrogenase OS=Microbacterium lemovicicum OX=1072463 GN=fgd1_4 PE=4 SV=1"
+ },
+ "seq0106": {
+  "original": "A0ABT6KRI4",
+  "label": "A0ABT6KRI4",
+  "accession": "A0ABT6KRI4",
+  "clade": "homolog",
+  "description": "A0ABT6KRI4 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Antiquaquibacter oligotrophicus OX=2880260 GN=M21"
+ },
+ "seq0107": {
+  "original": "A0ABT6ZES1",
+  "label": "A0ABT6ZES1",
+  "accession": "A0ABT6ZES1",
+  "clade": "homolog",
+  "description": "A0ABT6ZES1 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Microbacterium dauci OX=3048008 GN=fgd PE=4 SV=1"
+ },
+ "seq0108": {
+  "original": "A0AAE4D053",
+  "label": "A0AAE4D053",
+  "accession": "A0AAE4D053",
+  "clade": "homolog",
+  "description": "A0AAE4D053 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Catenuloplanes niger OX=587534 GN=J2S44_007834 PE"
+ },
+ "seq0109": {
+  "original": "A0ABP9LWC8",
+  "label": "A0ABP9LWC8",
+  "accession": "A0ABP9LWC8",
+  "clade": "homolog",
+  "description": "A0ABP9LWC8 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Microbacterium yannicii OX=671622 GN=fgd PE=4 SV=1"
+ },
+ "seq0110": {
+  "original": "A0ABW8VJ83",
+  "label": "A0ABW8VJ83",
+  "accession": "A0ABW8VJ83",
+  "clade": "homolog",
+  "description": "A0ABW8VJ83 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Azospirillum argentinense OX=2970906 GN=fgd PE=4 SV=1"
+ },
+ "seq0111": {
+  "original": "A0ABZ0SPY2",
+  "label": "A0ABZ0SPY2",
+  "accession": "A0ABZ0SPY2",
+  "clade": "homolog",
+  "description": "A0ABZ0SPY2 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Microbacterium rhizosphaerae OX=1678237 GN=fgd PE=4 SV=1"
+ },
+ "seq0112": {
+  "original": "A0A6L9XVL3",
+  "label": "A0A6L9XVL3",
+  "accession": "A0A6L9XVL3",
+  "clade": "homolog",
+  "description": "A0A6L9XVL3 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Leifsonia tongyongensis OX=1268043 GN=fgd PE=4 SV=1"
+ },
+ "seq0113": {
+  "original": "A0A839N1V8",
+  "label": "A0A839N1V8",
+  "accession": "A0A839N1V8",
+  "clade": "homolog",
+  "description": "A0A839N1V8 F420-dependent glucose-6-phosphate dehydrogenase OS=Flexivirga oryzae OX=1794944 GN=fgd PE=3 SV=1"
+ },
+ "seq0114": {
+  "original": "A0A132MHI3",
+  "label": "A0A132MHI3",
+  "accession": "A0A132MHI3",
+  "clade": "homolog",
+  "description": "A0A132MHI3 F420-dependent glucose-6-phosphate dehydrogenase OS=Carbonactinospora thermoautotrophica OX=1469144 GN=fgd PE="
+ },
+ "seq0115": {
+  "original": "A0A542E351",
+  "label": "A0A542E351",
+  "accession": "A0A542E351",
+  "clade": "homolog",
+  "description": "A0A542E351 F420-dependent glucose-6-phosphate dehydrogenase OS=Lapillicoccus jejuensis OX=402171 GN=fgd PE=3 SV=1"
+ },
+ "seq0116": {
+  "original": "A0ABP3ZNX3",
+  "label": "A0ABP3ZNX3",
+  "accession": "A0ABP3ZNX3",
+  "clade": "homolog",
+  "description": "A0ABP3ZNX3 F420-dependent glucose-6-phosphate dehydrogenase OS=Pseudonocardia zijingensis OX=153376 GN=fgd PE=3 SV=1"
+ },
+ "seq0117": {
+  "original": "A0ABY2SBS8",
+  "label": "A0ABY2SBS8",
+  "accession": "A0ABY2SBS8",
+  "clade": "homolog",
+  "description": "A0ABY2SBS8 F420-dependent glucose-6-phosphate dehydrogenase OS=Prauserella endophytica OX=1592324 GN=fgd PE=3 SV=1"
+ },
+ "seq0118": {
+  "original": "A0ABQ2HIN5",
+  "label": "A0ABQ2HIN5",
+  "accession": "A0ABQ2HIN5",
+  "clade": "homolog",
+  "description": "A0ABQ2HIN5 F420-dependent glucose-6-phosphate dehydrogenase OS=Terrabacter tumescens OX=60443 GN=fgd PE=3 SV=1"
+ },
+ "seq0119": {
+  "original": "A0A2S6NIR5",
+  "label": "A0A2S6NIR5",
+  "accession": "A0A2S6NIR5",
+  "clade": "homolog",
+  "description": "A0A2S6NIR5 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Rhodopila globiformis OX=1071 GN=CCS01_10700 PE=4 SV=1"
+ },
+ "seq0120": {
+  "original": "A0A542E2A1",
+  "label": "A0A542E2A1",
+  "accession": "A0A542E2A1",
+  "clade": "homolog",
+  "description": "A0A542E2A1 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Lapillicoccus jejuensis OX=402171 GN=FB458_2569 P"
+ },
+ "seq0121": {
+  "original": "A0A9W6NDB0",
+  "label": "A0A9W6NDB0",
+  "accession": "A0A9W6NDB0",
+  "clade": "homolog",
+  "description": "A0A9W6NDB0 F420-dependent glucose-6-phosphate dehydrogenase OS=Ancylobacter defluvii OX=1282440 GN=fgd PE=4 SV=1"
+ },
+ "seq0122": {
+  "original": "A0ABN1YUV2",
+  "label": "A0ABN1YUV2",
+  "accession": "A0ABN1YUV2",
+  "clade": "homolog",
+  "description": "A0ABN1YUV2 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Agrococcus citreus OX=84643 GN=fgd PE=4 SV=1"
+ },
+ "seq0123": {
+  "original": "A0ABR9CDD4",
+  "label": "A0ABR9CDD4",
+  "accession": "A0ABR9CDD4",
+  "clade": "homolog",
+  "description": "A0ABR9CDD4 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Roseibium polysiphoniae OX=2571221 GN=fgd PE=4 SV=1"
+ },
+ "seq0124": {
+  "original": "A0ABS1CTB6",
+  "label": "A0ABS1CTB6",
+  "accession": "A0ABS1CTB6",
+  "clade": "homolog",
+  "description": "A0ABS1CTB6 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Paracraurococcus ruber OX=77675 GN=fgd PE=4 SV=1"
+ },
+ "seq0125": {
+  "original": "A0ABW2H8U8",
+  "label": "A0ABW2H8U8",
+  "accession": "A0ABW2H8U8",
+  "clade": "homolog",
+  "description": "A0ABW2H8U8 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Microbacterium fluvii OX=415215 GN=fgd PE=4 SV=1"
+ },
+ "seq0126": {
+  "original": "A0A1G8CS05",
+  "label": "A0A1G8CS05",
+  "accession": "A0A1G8CS05",
+  "clade": "homolog",
+  "description": "A0A1G8CS05 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Agrococcus jejuensis OX=399736 GN=SAMN04489720_13"
+ },
+ "seq0127": {
+  "original": "A0A9E7C0K9",
+  "label": "A0A9E7C0K9",
+  "accession": "A0A9E7C0K9",
+  "clade": "homolog",
+  "description": "A0A9E7C0K9 F420-dependent glucose-6-phosphate dehydrogenase 1 OS=Capillimicrobium parvum OX=2884022 GN=fgd1_3 PE=4 SV=1"
+ },
+ "seq0128": {
+  "original": "A0ABP7MX28",
+  "label": "A0ABP7MX28",
+  "accession": "A0ABP7MX28",
+  "clade": "homolog",
+  "description": "A0ABP7MX28 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Microbacterium soli OX=446075 GN=fgd_1 PE=4 SV=1"
+ },
+ "seq0129": {
+  "original": "A0A1T4P0C1",
+  "label": "A0A1T4P0C1",
+  "accession": "A0A1T4P0C1",
+  "clade": "homolog",
+  "description": "A0A1T4P0C1 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Enhydrobacter aerosaccus OX=225324 GN=SAMN0274512"
+ },
+ "seq0130": {
+  "original": "A0A221W1J6",
+  "label": "A0A221W1J6",
+  "accession": "A0A221W1J6",
+  "clade": "homolog",
+  "description": "A0A221W1J6 F420-dependent glucose-6-phosphate dehydrogenase OS=Actinoalloteichus hoggarensis OX=1470176 GN=fgd2 PE=4 SV=1"
+ },
+ "seq0131": {
+  "original": "A0A506UGT7",
+  "label": "A0A506UGT7",
+  "accession": "A0A506UGT7",
+  "clade": "homolog",
+  "description": "A0A506UGT7 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Martelella alba OX=2590451 GN=fgd PE=4 SV=1"
+ },
+ "seq0132": {
+  "original": "A0A829YA35",
+  "label": "A0A829YA35",
+  "accession": "A0A829YA35",
+  "clade": "homolog",
+  "description": "A0A829YA35 F420-dependent glucose-6-phosphate dehydrogenase OS=Steroidobacter agaridevorans OX=2695856 GN=fgd PE=4 SV=1"
+ },
+ "seq0133": {
+  "original": "A0ABT1JQR5",
+  "label": "A0ABT1JQR5",
+  "accession": "A0ABT1JQR5",
+  "clade": "homolog",
+  "description": "A0ABT1JQR5 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Actinoalloteichus caeruleus DSM 43889 OX=1120930"
+ },
+ "seq0134": {
+  "original": "A0A369W7U7",
+  "label": "A0A369W7U7",
+  "accession": "A0A369W7U7",
+  "clade": "homolog",
+  "description": "A0A369W7U7 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Pelagibacterium lacus OX=2282655 GN=fgd PE=4 SV=1"
+ },
+ "seq0135": {
+  "original": "A0A8J3B800",
+  "label": "A0A8J3B800",
+  "accession": "A0A8J3B800",
+  "clade": "homolog",
+  "description": "A0A8J3B800 F420-dependent glucose-6-phosphate dehydrogenase OS=Pilimelia anulata OX=53371 GN=fgd1 PE=4 SV=1"
+ },
+ "seq0136": {
+  "original": "A0ABP6AYU0",
+  "label": "A0ABP6AYU0",
+  "accession": "A0ABP6AYU0",
+  "clade": "homolog",
+  "description": "A0ABP6AYU0 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Pilimelia columellifera subsp. columellifera OX=706583 GN"
+ },
+ "seq0137": {
+  "original": "A0ABQ4TEL5",
+  "label": "A0ABQ4TEL5",
+  "accession": "A0ABQ4TEL5",
+  "clade": "homolog",
+  "description": "A0ABQ4TEL5 F420-dependent glucose-6-phosphate dehydrogenase 1 OS=Methylobacterium organophilum OX=410 GN=fgd1 PE=4 SV=1"
+ },
+ "seq0138": {
+  "original": "A0A255FYJ0",
+  "label": "A0A255FYJ0",
+  "accession": "A0A255FYJ0",
+  "clade": "homolog",
+  "description": "A0A255FYJ0 F420-dependent glucose-6-phosphate dehydrogenase OS=Enemella evansiae OX=2016499 GN=fgd PE=3 SV=1"
+ },
+ "seq0139": {
+  "original": "A0A9X2NL17",
+  "label": "A0A9X2NL17",
+  "accession": "A0A9X2NL17",
+  "clade": "homolog",
+  "description": "A0A9X2NL17 F420-dependent glucose-6-phosphate dehydrogenase OS=Amycolatopsis iheyensis OX=2945988 GN=fgd PE=3 SV=1"
+ },
+ "seq0140": {
+  "original": "A0A024H8V0",
+  "label": "A0A024H8V0",
+  "accession": "A0A024H8V0",
+  "clade": "homolog",
+  "description": "A0A024H8V0 F420-dependent glucose-6-phosphate dehydrogenase OS=Pseudarthrobacter siccitolerans OX=861266 GN=fgd1 PE=3 SV="
+ },
+ "seq0141": {
+  "original": "A0ABW0GQ60",
+  "label": "A0ABW0GQ60",
+  "accession": "A0ABW0GQ60",
+  "clade": "homolog",
+  "description": "A0ABW0GQ60 F420-dependent glucose-6-phosphate dehydrogenase OS=Aquipuribacter nitratireducens OX=650104 GN=fgd PE=3 SV=1"
+ },
+ "seq0142": {
+  "original": "E5XVG1",
+  "label": "E5XVG1",
+  "accession": "E5XVG1",
+  "clade": "homolog",
+  "description": "E5XVG1 F420-dependent glucose-6-phosphate dehydrogenase OS=Segniliparus rugosus (strain ATCC BAA-974 / DSM 45345 / CC"
+ },
+ "seq0143": {
+  "original": "A0ABW2BVI4",
+  "label": "A0ABW2BVI4",
+  "accession": "A0ABW2BVI4",
+  "clade": "homolog",
+  "description": "A0ABW2BVI4 F420-dependent glucose-6-phosphate dehydrogenase OS=Haloechinothrix salitolerans OX=926830 GN=fgd PE=3 SV=1"
+ },
+ "seq0144": {
+  "original": "A0A4S3K5J9",
+  "label": "A0A4S3K5J9",
+  "accession": "A0A4S3K5J9",
+  "clade": "homolog",
+  "description": "A0A4S3K5J9 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Panacagrimonas perspica OX=381431 GN=DFR24_1181 P"
+ },
+ "seq0145": {
+  "original": "A0A512HV89",
+  "label": "A0A512HV89",
+  "accession": "A0A512HV89",
+  "clade": "homolog",
+  "description": "A0A512HV89 F420-dependent glucose-6-phosphate dehydrogenase OS=Aeromicrobium flavum OX=416568 GN=fgd_1 PE=4 SV=1"
+ },
+ "seq0146": {
+  "original": "A0A8J3MX76",
+  "label": "A0A8J3MX76",
+  "accession": "A0A8J3MX76",
+  "clade": "homolog",
+  "description": "A0A8J3MX76 F420-dependent glucose-6-phosphate dehydrogenase OS=Ktedonospora formicarum OX=2778364 GN=fgd PE=4 SV=1"
+ },
+ "seq0147": {
+  "original": "A0A942EAP5",
+  "label": "A0A942EAP5",
+  "accession": "A0A942EAP5",
+  "clade": "homolog",
+  "description": "A0A942EAP5 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Devosia litorisediminis OX=2829817 GN=fgd PE=4 SV=1"
+ },
+ "seq0148": {
+  "original": "A0AAV3U3Z0",
+  "label": "A0AAV3U3Z0",
+  "accession": "A0AAV3U3Z0",
+  "clade": "homolog",
+  "description": "A0AAV3U3Z0 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Halioxenophilus aromaticivorans OX=1306992 GN=fgd PE=4 SV"
+ },
+ "seq0149": {
+  "original": "A0A916XNX1",
+  "label": "A0A916XNX1",
+  "accession": "A0A916XNX1",
+  "clade": "homolog",
+  "description": "A0A916XNX1 F420-dependent glucose-6-phosphate dehydrogenase OS=Chelatococcus reniformis OX=1494448 GN=fgd PE=4 SV=1"
+ },
+ "seq0150": {
+  "original": "A0ABS9Q0D3",
+  "label": "A0ABS9Q0D3",
+  "accession": "A0ABS9Q0D3",
+  "clade": "homolog",
+  "description": "A0ABS9Q0D3 F420-dependent glucose-6-phosphate dehydrogenase OS=Arsenicicoccus bolidensis OX=229480 GN=fgd PE=3 SV=1"
+ },
+ "seq0151": {
+  "original": "A0A2T0Z380",
+  "label": "A0A2T0Z380",
+  "accession": "A0A2T0Z380",
+  "clade": "homolog",
+  "description": "A0A2T0Z380 F420-dependent glucose-6-phosphate dehydrogenase OS=Antricoccus suffuscus OX=1629062 GN=fgd PE=3 SV=1"
+ },
+ "seq0152": {
+  "original": "A0ABY4YEK9",
+  "label": "A0ABY4YEK9",
+  "accession": "A0ABY4YEK9",
+  "clade": "homolog",
+  "description": "A0ABY4YEK9 F420-dependent glucose-6-phosphate dehydrogenase OS=Ornithinimicrobium cryptoxanthini OX=2934161 GN=fgd PE=3 S"
+ },
+ "seq0153": {
+  "original": "A0A4R0J1A9",
+  "label": "A0A4R0J1A9",
+  "accession": "A0A4R0J1A9",
+  "clade": "homolog",
+  "description": "A0A4R0J1A9 F420-dependent glucose-6-phosphate dehydrogenase OS=Kribbella speibonae OX=1572660 GN=fgd PE=3 SV=1"
+ },
+ "seq0154": {
+  "original": "A0A7Y9ASR4",
+  "label": "A0A7Y9ASR4",
+  "accession": "A0A7Y9ASR4",
+  "clade": "homolog",
+  "description": "A0A7Y9ASR4 F420-dependent glucose-6-phosphate dehydrogenase OS=Kineococcus aurantiacus OX=37633 GN=fgd PE=3 SV=1"
+ },
+ "seq0155": {
+  "original": "A0A916U8F6",
+  "label": "A0A916U8F6",
+  "accession": "A0A916U8F6",
+  "clade": "homolog",
+  "description": "A0A916U8F6 F420-dependent glucose-6-phosphate dehydrogenase OS=Hoyosella rhizosphaerae OX=1755582 GN=fgd PE=3 SV=1"
+ },
+ "seq0156": {
+  "original": "A0ABN2XPA9",
+  "label": "A0ABN2XPA9",
+  "accession": "A0ABN2XPA9",
+  "clade": "homolog",
+  "description": "A0ABN2XPA9 F420-dependent glucose-6-phosphate dehydrogenase OS=Nocardioides bigeumensis OX=433657 GN=fgd PE=3 SV=1"
+ },
+ "seq0157": {
+  "original": "A0A1X1ZHN2",
+  "label": "A0A1X1ZHN2",
+  "accession": "A0A1X1ZHN2",
+  "clade": "homolog",
+  "description": "A0A1X1ZHN2 F420-dependent glucose-6-phosphate dehydrogenase OS=Mycolicibacter nonchromogenicus OX=1782 GN=fgd PE=3 SV=1"
+ },
+ "seq0158": {
+  "original": "A0A511MS65",
+  "label": "A0A511MS65",
+  "accession": "A0A511MS65",
+  "clade": "homolog",
+  "description": "A0A511MS65 F420-dependent glucose-6-phosphate dehydrogenase OS=Nocardia ninae NBRC 108245 OX=1210091 GN=fgd PE=3 SV=1"
+ },
+ "seq0159": {
+  "original": "A0ABM8GDG8",
+  "label": "A0ABM8GDG8",
+  "accession": "A0ABM8GDG8",
+  "clade": "homolog",
+  "description": "A0ABM8GDG8 F420-dependent glucose-6-phosphate dehydrogenase OS=Naasia aerilata OX=1162966 GN=fgd PE=3 SV=1"
+ },
+ "seq0160": {
+  "original": "A0A365PB52",
+  "label": "A0A365PB52",
+  "accession": "A0A365PB52",
+  "clade": "homolog",
+  "description": "A0A365PB52 F420-dependent glucose-6-phosphate dehydrogenase OS=Dietzia maris OX=37915 GN=fgd PE=3 SV=1"
+ },
+ "seq0161": {
+  "original": "A0AAE4R3L8",
+  "label": "A0AAE4R3L8",
+  "accession": "A0AAE4R3L8",
+  "clade": "homolog",
+  "description": "A0AAE4R3L8 F420-dependent glucose-6-phosphate dehydrogenase OS=Gordonia amicalis OX=89053 GN=fgd PE=3 SV=1"
+ },
+ "seq0162": {
+  "original": "A0A848KID6",
+  "label": "A0A848KID6",
+  "accession": "A0A848KID6",
+  "clade": "homolog",
+  "description": "A0A848KID6 F420-dependent glucose-6-phosphate dehydrogenase OS=Antrihabitans stalactiti OX=2584121 GN=fgd PE=3 SV=1"
+ },
+ "seq0163": {
+  "original": "A0A7M1ST08",
+  "label": "A0A7M1ST08",
+  "accession": "A0A7M1ST08",
+  "clade": "homolog",
+  "description": "A0A7M1ST08 F420-dependent glucose-6-phosphate dehydrogenase OS=Ruania alkalisoli OX=2779775 GN=fgd PE=3 SV=1"
+ },
+ "seq0164": {
+  "original": "A0A7W5A0H0",
+  "label": "A0A7W5A0H0",
+  "accession": "A0A7W5A0H0",
+  "clade": "homolog",
+  "description": "A0A7W5A0H0 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Nocardioides albus OX=1841 GN=FHS12_000329 PE=4 S"
+ },
+ "seq0165": {
+  "original": "A0ABP6TB19",
+  "label": "A0ABP6TB19",
+  "accession": "A0ABP6TB19",
+  "clade": "homolog",
+  "description": "A0ABP6TB19 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Cryptosporangium minutisporangium OX=113569 GN=fgd PE=4 S"
+ },
+ "seq0166": {
+  "original": "A0ABV3T1M3",
+  "label": "A0ABV3T1M3",
+  "accession": "A0ABV3T1M3",
+  "clade": "homolog",
+  "description": "A0ABV3T1M3 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Nocardioides eburneus OX=3231482 GN=fgd PE=4 SV=1"
+ },
+ "seq0167": {
+  "original": "A0A010YY07",
+  "label": "A0A010YY07",
+  "accession": "A0A010YY07",
+  "clade": "homolog",
+  "description": "A0A010YY07 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Cryptosporangium arvum DSM 44712 OX=927661 GN=CryarDRAFT_"
+ },
+ "seq0168": {
+  "original": "A0ABY7K648",
+  "label": "A0ABY7K648",
+  "accession": "A0ABY7K648",
+  "clade": "homolog",
+  "description": "A0ABY7K648 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Jatrophihabitans cynanchi OX=2944128 GN=fgd PE=4 SV=1"
+ },
+ "seq0169": {
+  "original": "A0A1M7QFA2",
+  "label": "A0A1M7QFA2",
+  "accession": "A0A1M7QFA2",
+  "clade": "homolog",
+  "description": "A0A1M7QFA2 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Cryptosporangium aurantiacum OX=134849 GN=SAMN054"
+ },
+ "seq0170": {
+  "original": "A0A545AQR6",
+  "label": "A0A545AQR6",
+  "accession": "A0A545AQR6",
+  "clade": "homolog",
+  "description": "A0A545AQR6 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Cryptosporangium phraense OX=2593070 GN=fgd PE=4 SV=1"
+ },
+ "seq0171": {
+  "original": "A0A8J6PIN2",
+  "label": "A0A8J6PIN2",
+  "accession": "A0A8J6PIN2",
+  "clade": "homolog",
+  "description": "A0A8J6PIN2 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Oryzicola mucosus OX=2767425 GN=fgd PE=4 SV=1"
+ },
+ "seq0172": {
+  "original": "A0A367Y1Z1",
+  "label": "A0A367Y1Z1",
+  "accession": "A0A367Y1Z1",
+  "clade": "homolog",
+  "description": "A0A367Y1Z1 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Microbacterium sorbitolivorans OX=1867410 GN=fgd PE=4 SV="
+ },
+ "seq0173": {
+  "original": "A0ABX7C962",
+  "label": "A0ABX7C962",
+  "accession": "A0ABX7C962",
+  "clade": "homolog",
+  "description": "A0ABX7C962 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Devosia rhizoryzae OX=2774137 GN=fgd PE=4 SV=1"
+ },
+ "seq0174": {
+  "original": "A0ABX8WC21",
+  "label": "A0ABX8WC21",
+  "accession": "A0ABX8WC21",
+  "clade": "homolog",
+  "description": "A0ABX8WC21 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Devosia salina OX=2860336 GN=fgd PE=4 SV=1"
+ },
+ "seq0175": {
+  "original": "A0A7X3FS05",
+  "label": "A0A7X3FS05",
+  "accession": "A0A7X3FS05",
+  "clade": "homolog",
+  "description": "A0A7X3FS05 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Devosia marina OX=2683198 GN=fgd PE=4 SV=1"
+ },
+ "seq0176": {
+  "original": "A0A1Y6FKA4",
+  "label": "A0A1Y6FKA4",
+  "accession": "A0A1Y6FKA4",
+  "clade": "homolog",
+  "description": "A0A1Y6FKA4 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Devosia lucknowensis OX=1096929 GN=SAMN06295905_2"
+ },
+ "seq0177": {
+  "original": "A6WD69",
+  "label": "A6WD69",
+  "accession": "A6WD69",
+  "clade": "homolog",
+  "description": "A6WD69 F420-dependent glucose-6-phosphate dehydrogenase OS=Kineococcus radiotolerans (strain ATCC BAA-149 / DSM 14245"
+ },
+ "seq0178": {
+  "original": "A0A2S0WYX9",
+  "label": "A0A2S0WYX9",
+  "accession": "A0A2S0WYX9",
+  "clade": "homolog",
+  "description": "A0A2S0WYX9 F420-dependent glucose-6-phosphate dehydrogenase OS=Agromyces badenianii OX=2080742 GN=fgd PE=3 SV=1"
+ },
+ "seq0179": {
+  "original": "A0ABU0R6Y2",
+  "label": "A0ABU0R6Y2",
+  "accession": "A0ABU0R6Y2",
+  "clade": "homolog",
+  "description": "A0ABU0R6Y2 F420-dependent glucose-6-phosphate dehydrogenase OS=Agromyces ramosus OX=33879 GN=fgd PE=3 SV=1"
+ },
+ "seq0180": {
+  "original": "A0A9X1SWQ5",
+  "label": "A0A9X1SWQ5",
+  "accession": "A0A9X1SWQ5",
+  "clade": "homolog",
+  "description": "A0A9X1SWQ5 F420-dependent glucose-6-phosphate dehydrogenase OS=Kineosporia babensis OX=499548 GN=fgd PE=3 SV=1"
+ },
+ "seq0181": {
+  "original": "A0A2T0R8C9",
+  "label": "A0A2T0R8C9",
+  "accession": "A0A2T0R8C9",
+  "clade": "homolog",
+  "description": "A0A2T0R8C9 F420-dependent glucose-6-phosphate dehydrogenase OS=Kineococcus rhizosphaerae OX=559628 GN=fgd PE=3 SV=1"
+ },
+ "seq0182": {
+  "original": "A0ABP7ASF4",
+  "label": "A0ABP7ASF4",
+  "accession": "A0ABP7ASF4",
+  "clade": "homolog",
+  "description": "A0ABP7ASF4 F420-dependent glucose-6-phosphate dehydrogenase OS=Kineosporia mesophila OX=566012 GN=fgd PE=3 SV=1"
+ },
+ "seq0183": {
+  "original": "A0ABT9PAQ6",
+  "label": "A0ABT9PAQ6",
+  "accession": "A0ABT9PAQ6",
+  "clade": "homolog",
+  "description": "A0ABT9PAQ6 F420-dependent glucose-6-phosphate dehydrogenase OS=Kineosporia succinea OX=84632 GN=fgd PE=3 SV=1"
+ },
+ "seq0184": {
+  "original": "A0ABV4HWK5",
+  "label": "A0ABV4HWK5",
+  "accession": "A0ABV4HWK5",
+  "clade": "homolog",
+  "description": "A0ABV4HWK5 F420-dependent glucose-6-phosphate dehydrogenase OS=Kineococcus mangrovi OX=1660183 GN=fgd PE=3 SV=1"
+ },
+ "seq0185": {
+  "original": "A0A0F5Q1K2",
+  "label": "A0A0F5Q1K2",
+  "accession": "A0A0F5Q1K2",
+  "clade": "homolog",
+  "description": "A0A0F5Q1K2 Luciferase-like domain-containing protein OS=Devosia psychrophila OX=728005 GN=WH91_00655 PE=4 SV=1"
+ },
+ "seq0186": {
+  "original": "A0ABX7BT76",
+  "label": "A0ABX7BT76",
+  "accession": "A0ABX7BT76",
+  "clade": "homolog",
+  "description": "A0ABX7BT76 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Devosia oryziradicis OX=2801335 GN=fgd PE=4 SV=1"
+ },
+ "seq0187": {
+  "original": "A0A087M2K2",
+  "label": "A0A087M2K2",
+  "accession": "A0A087M2K2",
+  "clade": "homolog",
+  "description": "A0A087M2K2 Luciferase-like domain-containing protein OS=Devosia riboflavina OX=46914 GN=JP75_10980 PE=4 SV=1"
+ },
+ "seq0188": {
+  "original": "A0A1I7NN86",
+  "label": "A0A1I7NN86",
+  "accession": "A0A1I7NN86",
+  "clade": "homolog",
+  "description": "A0A1I7NN86 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Devosia crocina OX=429728 GN=SAMN05216456_2340 PE"
+ },
+ "seq0189": {
+  "original": "A0ACG3S4N8",
+  "label": "A0ACG3S4N8",
+  "accession": "A0ACG3S4N8",
+  "clade": "homolog",
+  "description": "A0ACG3S4N8 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Devosia alba OX=3152360 GN=fgd PE=4 SV=1"
+ },
+ "seq0190": {
+  "original": "A0A0F5L225",
+  "label": "A0A0F5L225",
+  "accession": "A0A0F5L225",
+  "clade": "homolog",
+  "description": "A0A0F5L225 Luciferase-like domain-containing protein OS=Devosia soli OX=361041 GN=VW35_16885 PE=4 SV=1"
+ },
+ "seq0191": {
+  "original": "A0A1N6ENV4",
+  "label": "A0A1N6ENV4",
+  "accession": "A0A1N6ENV4",
+  "clade": "homolog",
+  "description": "A0A1N6ENV4 F420-dependent glucose-6-phosphate dehydrogenase OS=Agromyces cerinus subsp. cerinus OX=232089 GN=fgd PE=3 SV="
+ },
+ "seq0192": {
+  "original": "A0A853DI77",
+  "label": "A0A853DI77",
+  "accession": "A0A853DI77",
+  "clade": "homolog",
+  "description": "A0A853DI77 F420-dependent glucose-6-phosphate dehydrogenase OS=Allobranchiibius huperziae OX=1874116 GN=fgd PE=3 SV=1"
+ },
+ "seq0193": {
+  "original": "A0A9E5MER7",
+  "label": "A0A9E5MER7",
+  "accession": "A0A9E5MER7",
+  "clade": "homolog",
+  "description": "A0A9E5MER7 F420-dependent glucose-6-phosphate dehydrogenase OS=Microcella pacifica OX=2591847 GN=fgd PE=3 SV=1"
+ },
+ "seq0194": {
+  "original": "A0ABT6C874",
+  "label": "A0ABT6C874",
+  "accession": "A0ABT6C874",
+  "clade": "homolog",
+  "description": "A0ABT6C874 F420-dependent glucose-6-phosphate dehydrogenase OS=Luteipulveratus flavus OX=3031728 GN=fgd PE=3 SV=1"
+ },
+ "seq0195": {
+  "original": "A0A0L6CG66",
+  "label": "A0A0L6CG66",
+  "accession": "A0A0L6CG66",
+  "clade": "homolog",
+  "description": "A0A0L6CG66 F420-dependent glucose-6-phosphate dehydrogenase OS=Luteipulveratus halotolerans OX=1631356 GN=fgd PE=3 SV=1"
+ },
+ "seq0196": {
+  "original": "A0A841CVS5",
+  "label": "A0A841CVS5",
+  "accession": "A0A841CVS5",
+  "clade": "homolog",
+  "description": "A0A841CVS5 F420-dependent glucose-6-phosphate dehydrogenase OS=Saccharothrix tamanrassetensis OX=1051531 GN=fgd PE=3 SV=1"
+ },
+ "seq0197": {
+  "original": "A0ABP4ZU32",
+  "label": "A0ABP4ZU32",
+  "accession": "A0ABP4ZU32",
+  "clade": "homolog",
+  "description": "A0ABP4ZU32 F420-dependent glucose-6-phosphate dehydrogenase OS=Myceligenerans crystallogenes OX=316335 GN=fgd PE=3 SV=1"
+ },
+ "seq0198": {
+  "original": "A0ABV6QXV3",
+  "label": "A0ABV6QXV3",
+  "accession": "A0ABV6QXV3",
+  "clade": "homolog",
+  "description": "A0ABV6QXV3 F420-dependent glucose-6-phosphate dehydrogenase OS=Kribbella deserti OX=1926257 GN=fgd PE=3 SV=1"
+ },
+ "seq0199": {
+  "original": "A0A563DZ76",
+  "label": "A0A563DZ76",
+  "accession": "A0A563DZ76",
+  "clade": "homolog",
+  "description": "A0A563DZ76 F420-dependent glucose-6-phosphate dehydrogenase OS=Leekyejoonella antrihumi OX=1660198 GN=fgd PE=3 SV=1"
+ },
+ "seq0200": {
+  "original": "A0A3N2CTG1",
+  "label": "A0A3N2CTG1",
+  "accession": "A0A3N2CTG1",
+  "clade": "homolog",
+  "description": "A0A3N2CTG1 F420-dependent glucose-6-phosphate dehydrogenase OS=Nocardioides aurantiacus OX=86796 GN=fgd PE=3 SV=1"
+ },
+ "seq0201": {
+  "original": "A0A7X5V6C0",
+  "label": "A0A7X5V6C0",
+  "accession": "A0A7X5V6C0",
+  "clade": "homolog",
+  "description": "A0A7X5V6C0 F420-dependent glucose-6-phosphate dehydrogenase OS=Kribbella shirazensis OX=1105143 GN=fgd PE=3 SV=1"
+ },
+ "seq0202": {
+  "original": "A0AA41QEH4",
+  "label": "A0AA41QEH4",
+  "accession": "A0AA41QEH4",
+  "clade": "homolog",
+  "description": "A0AA41QEH4 F420-dependent glucose-6-phosphate dehydrogenase OS=Antribacter soli OX=2910976 GN=fgd PE=3 SV=1"
+ },
+ "seq0203": {
+  "original": "A0ABU2J9E9",
+  "label": "A0ABU2J9E9",
+  "accession": "A0ABU2J9E9",
+  "clade": "homolog",
+  "description": "A0ABU2J9E9 F420-dependent glucose-6-phosphate dehydrogenase OS=Jatrophihabitans lederbergiae OX=3075547 GN=fgd PE=3 SV=1"
+ },
+ "seq0204": {
+  "original": "A0A3N2GQI2",
+  "label": "A0A3N2GQI2",
+  "accession": "A0A3N2GQI2",
+  "clade": "homolog",
+  "description": "A0A3N2GQI2 F420-dependent glucose-6-phosphate dehydrogenase OS=Amycolatopsis thermoflava OX=84480 GN=fgd PE=3 SV=1"
+ },
+ "seq0205": {
+  "original": "A0A7K1FUP1",
+  "label": "A0A7K1FUP1",
+  "accession": "A0A7K1FUP1",
+  "clade": "homolog",
+  "description": "A0A7K1FUP1 F420-dependent glucose-6-phosphate dehydrogenase OS=Nakamurella alba OX=2665158 GN=fgd PE=3 SV=1"
+ },
+ "seq0206": {
+  "original": "A0A8J3GN38",
+  "label": "A0A8J3GN38",
+  "accession": "A0A8J3GN38",
+  "clade": "homolog",
+  "description": "A0A8J3GN38 F420-dependent glucose-6-phosphate dehydrogenase OS=Pseudolysinimonas yzui OX=2708254 GN=fgd1 PE=3 SV=1"
+ },
+ "seq0207": {
+  "original": "A0A934SIZ5",
+  "label": "A0A934SIZ5",
+  "accession": "A0A934SIZ5",
+  "clade": "homolog",
+  "description": "A0A934SIZ5 F420-dependent glucose-6-phosphate dehydrogenase OS=Lacisediminihabitans changchengi OX=2787634 GN=fgd PE=3 SV"
+ },
+ "seq0208": {
+  "original": "A0ABN2EUB0",
+  "label": "A0ABN2EUB0",
+  "accession": "A0ABN2EUB0",
+  "clade": "homolog",
+  "description": "A0ABN2EUB0 F420-dependent glucose-6-phosphate dehydrogenase OS=Kribbella alba OX=190197 GN=fgd PE=3 SV=1"
+ },
+ "seq0209": {
+  "original": "A0ABY2IK57",
+  "label": "A0ABY2IK57",
+  "accession": "A0ABY2IK57",
+  "clade": "homolog",
+  "description": "A0ABY2IK57 F420-dependent glucose-6-phosphate dehydrogenase OS=Cryobacterium glucosi OX=1259175 GN=fgd PE=3 SV=1"
+ },
+ "seq0210": {
+  "original": "A0A4V2JEM2",
+  "label": "A0A4V2JEM2",
+  "accession": "A0A4V2JEM2",
+  "clade": "homolog",
+  "description": "A0A4V2JEM2 F420-dependent glucose-6-phosphate dehydrogenase OS=Glaciihabitans arcticus OX=2668039 GN=fgd PE=3 SV=1"
+ },
+ "seq0211": {
+  "original": "A0ABW7SUD0",
+  "label": "A0ABW7SUD0",
+  "accession": "A0ABW7SUD0",
+  "clade": "homolog",
+  "description": "A0ABW7SUD0 F420-dependent glucose-6-phosphate dehydrogenase OS=Micromonospora rubida OX=2697657 GN=fgd PE=3 SV=1"
+ },
+ "seq0212": {
+  "original": "A0A1I1ATE7",
+  "label": "A0A1I1ATE7",
+  "accession": "A0A1I1ATE7",
+  "clade": "homolog",
+  "description": "A0A1I1ATE7 F420-dependent glucose-6-phosphate dehydrogenase OS=Amycolatopsis marina OX=490629 GN=fgd PE=3 SV=1"
+ },
+ "seq0213": {
+  "original": "A0A2T0VI64",
+  "label": "A0A2T0VI64",
+  "accession": "A0A2T0VI64",
+  "clade": "homolog",
+  "description": "A0A2T0VI64 F420-dependent glucose-6-phosphate dehydrogenase OS=Glaciihabitans tibetensis OX=1266600 GN=fgd PE=3 SV=1"
+ },
+ "seq0214": {
+  "original": "A0A5C8ZIJ8",
+  "label": "A0A5C8ZIJ8",
+  "accession": "A0A5C8ZIJ8",
+  "clade": "homolog",
+  "description": "A0A5C8ZIJ8 F420-dependent glucose-6-phosphate dehydrogenase OS=Quadrisphaera setariae OX=2593304 GN=fgd PE=3 SV=1"
+ },
+ "seq0215": {
+  "original": "A0A6I8LMM8",
+  "label": "A0A6I8LMM8",
+  "accession": "A0A6I8LMM8",
+  "clade": "homolog",
+  "description": "A0A6I8LMM8 F420-dependent glucose-6-phosphate dehydrogenase OS=Amycolatopsis camponoti OX=2606593 GN=fgd PE=3 SV=1"
+ },
+ "seq0216": {
+  "original": "A0A7G6X1J5",
+  "label": "A0A7G6X1J5",
+  "accession": "A0A7G6X1J5",
+  "clade": "homolog",
+  "description": "A0A7G6X1J5 F420-dependent glucose-6-phosphate dehydrogenase OS=Kribbella qitaiheensis OX=1544730 GN=fgd PE=3 SV=1"
+ },
+ "seq0217": {
+  "original": "A0A7W3J9Q9",
+  "label": "A0A7W3J9Q9",
+  "accession": "A0A7W3J9Q9",
+  "clade": "homolog",
+  "description": "A0A7W3J9Q9 F420-dependent glucose-6-phosphate dehydrogenase OS=Promicromonospora sukumoe OX=88382 GN=fgd PE=3 SV=1"
+ },
+ "seq0218": {
+  "original": "A0A8H9GJ03",
+  "label": "A0A8H9GJ03",
+  "accession": "A0A8H9GJ03",
+  "clade": "homolog",
+  "description": "A0A8H9GJ03 F420-dependent glucose-6-phosphate dehydrogenase OS=Promicromonospora citrea OX=43677 GN=fgd PE=3 SV=1"
+ },
+ "seq0219": {
+  "original": "A0A919FGZ6",
+  "label": "A0A919FGZ6",
+  "accession": "A0A919FGZ6",
+  "clade": "homolog",
+  "description": "A0A919FGZ6 F420-dependent glucose-6-phosphate dehydrogenase OS=Promicromonospora soli OX=2035533 GN=fgd PE=3 SV=1"
+ },
+ "seq0220": {
+  "original": "A0ABN2MMP0",
+  "label": "A0ABN2MMP0",
+  "accession": "A0ABN2MMP0",
+  "clade": "homolog",
+  "description": "A0ABN2MMP0 F420-dependent glucose-6-phosphate dehydrogenase OS=Pseudonocardia ailaonensis OX=367279 GN=fgd PE=3 SV=1"
+ },
+ "seq0221": {
+  "original": "A0ABP7FYX3",
+  "label": "A0ABP7FYX3",
+  "accession": "A0ABP7FYX3",
+  "clade": "homolog",
+  "description": "A0ABP7FYX3 F420-dependent glucose-6-phosphate dehydrogenase OS=Leifsonella bigeumensis OX=433643 GN=fgd_2 PE=3 SV=1"
+ },
+ "seq0222": {
+  "original": "A0ABS3SJL1",
+  "label": "A0ABS3SJL1",
+  "accession": "A0ABS3SJL1",
+  "clade": "homolog",
+  "description": "A0ABS3SJL1 F420-dependent glucose-6-phosphate dehydrogenase OS=Cellulomonas fengjieae OX=2819978 GN=fgd PE=3 SV=1"
+ },
+ "seq0223": {
+  "original": "Q2PC85",
+  "label": "Q2PC85",
+  "accession": "Q2PC85",
+  "clade": "homolog",
+  "description": "Q2PC85 F420-dependent glucose-6-phosphate dehydrogenase OS=Streptomyces rubradiris OX=285531 GN=fgd PE=3 SV=1"
+ },
+ "seq0224": {
+  "original": "A0A512CXB1",
+  "label": "A0A512CXB1",
+  "accession": "A0A512CXB1",
+  "clade": "homolog",
+  "description": "A0A512CXB1 F420-dependent glucose-6-phosphate dehydrogenase OS=Terrabacter aerolatus OX=422442 GN=fgd PE=3 SV=1"
+ },
+ "seq0225": {
+  "original": "A0A5C8UN93",
+  "label": "A0A5C8UN93",
+  "accession": "A0A5C8UN93",
+  "clade": "homolog",
+  "description": "A0A5C8UN93 F420-dependent glucose-6-phosphate dehydrogenase OS=Lacisediminihabitans profunda OX=2594790 GN=fgd PE=3 SV=1"
+ },
+ "seq0226": {
+  "original": "A0A931IDI7",
+  "label": "A0A931IDI7",
+  "accession": "A0A931IDI7",
+  "clade": "homolog",
+  "description": "A0A931IDI7 F420-dependent glucose-6-phosphate dehydrogenase OS=Nocardia bovistercoris OX=2785916 GN=fgd PE=3 SV=1"
+ },
+ "seq0227": {
+  "original": "A0ABY4QXM5",
+  "label": "A0ABY4QXM5",
+  "accession": "A0ABY4QXM5",
+  "clade": "homolog",
+  "description": "A0ABY4QXM5 F420-dependent glucose-6-phosphate dehydrogenase OS=Jatrophihabitans telluris OX=2038343 GN=fgd PE=3 SV=1"
+ },
+ "seq0228": {
+  "original": "A0A326UE11",
+  "label": "A0A326UE11",
+  "accession": "A0A326UE11",
+  "clade": "homolog",
+  "description": "A0A326UE11 Coenzyme F420-dependent glucose-6-phosphate dehydrogenase OS=Thermosporothrix hazakensis OX=644383 GN=EI42_008"
+ },
+ "seq0229": {
+  "original": "A0A916SUM8",
+  "label": "A0A916SUM8",
+  "accession": "A0A916SUM8",
+  "clade": "homolog",
+  "description": "A0A916SUM8 F420-dependent glucose-6-phosphate dehydrogenase OS=Flexivirga endophytica OX=1849103 GN=fgd PE=4 SV=1"
+ },
+ "seq0230": {
+  "original": "A0ABQ6FME4",
+  "label": "A0ABQ6FME4",
+  "accession": "A0ABQ6FME4",
+  "clade": "homolog",
+  "description": "A0ABQ6FME4 F420-dependent glucose-6-phosphate dehydrogenase OS=Dictyobacter halimunensis OX=3026934 GN=fgd_1 PE=4 SV=1"
+ },
+ "seq0231": {
+  "original": "D6U2M4",
+  "label": "D6U2M4",
+  "accession": "D6U2M4",
+  "clade": "homolog",
+  "description": "D6U2M4 F420-dependent oxidoreductase, G6PDH family OS=Ktedonobacter racemifer DSM 44963 OX=485913 GN=Krac_1640 PE=4 S"
+ },
+ "seq0232": {
+  "original": "A0A402AA70",
+  "label": "A0A402AA70",
+  "accession": "A0A402AA70",
+  "clade": "homolog",
+  "description": "A0A402AA70 F420-dependent glucose-6-phosphate dehydrogenase OS=Tengunoibacter tsumagoiensis OX=2014871 GN=fgd PE=4 SV=1"
+ },
+ "seq0233": {
+  "original": "A0A402BHM0",
+  "label": "A0A402BHM0",
+  "accession": "A0A402BHM0",
+  "clade": "homolog",
+  "description": "A0A402BHM0 F420-dependent glucose-6-phosphate dehydrogenase OS=Dictyobacter alpinus OX=2014873 GN=fgd_2 PE=4 SV=1"
+ },
+ "seq0234": {
+  "original": "A0A4P6JTA9",
+  "label": "A0A4P6JTA9",
+  "accession": "A0A4P6JTA9",
+  "clade": "homolog",
+  "description": "A0A4P6JTA9 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Ktedonosporobacter rubrisoli OX=2509675 GN=fgd PE=4 SV=1"
+ },
+ "seq0235": {
+  "original": "A0A5A5TJX2",
+  "label": "A0A5A5TJX2",
+  "accession": "A0A5A5TJX2",
+  "clade": "homolog",
+  "description": "A0A5A5TJX2 F420-dependent glucose-6-phosphate dehydrogenase OS=Dictyobacter arantiisoli OX=2014874 GN=fgd PE=4 SV=1"
+ },
+ "seq0236": {
+  "original": "A0ABQ3VIK0",
+  "label": "A0ABQ3VIK0",
+  "accession": "A0ABQ3VIK0",
+  "clade": "homolog",
+  "description": "A0ABQ3VIK0 F420-dependent glucose-6-phosphate dehydrogenase OS=Dictyobacter formicarum OX=2778368 GN=fgd_1 PE=4 SV=1"
+ },
+ "seq0237": {
+  "original": "A0A934KFA3",
+  "label": "A0A934KFA3",
+  "accession": "A0A934KFA3",
+  "clade": "homolog",
+  "description": "A0A934KFA3 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Candidatus Nephthysia bennettiae OX=3127016 GN=fgd PE=4 S"
+ },
+ "seq0238": {
+  "original": "A0ABV7WXG4",
+  "label": "A0ABV7WXG4",
+  "accession": "A0ABV7WXG4",
+  "clade": "homolog",
+  "description": "A0ABV7WXG4 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Devosia honganensis OX=1610527 GN=fgd PE=4 SV=1"
+ },
+ "seq0239": {
+  "original": "A0ABW5QQD9",
+  "label": "A0ABW5QQD9",
+  "accession": "A0ABW5QQD9",
+  "clade": "homolog",
+  "description": "A0ABW5QQD9 Glucose-6-phosphate dehydrogenase (Coenzyme-F420) OS=Devosia albogilva OX=429726 GN=fgd PE=4 SV=1"
+ }
+}

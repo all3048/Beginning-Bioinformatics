@@ -1,0 +1,60 @@
+DATASET_STYLE
+SEPARATOR TAB
+DATASET_LABEL	clade groups
+COLOR	#000000
+DATA
+seq0001	label	node	#000000	1	bold
+seq0002	label	node	#C44E52	1	bold
+seq0003	label	node	#999999	1	bold
+seq0004	label	node	#C44E52	1	bold
+seq0005	label	node	#4C72B0	1	bold
+seq0009	label	node	#4C72B0	1	bold
+seq0061	label	node	#C44E52	1	bold
+seq0063	label	node	#C44E52	1	bold
+seq0064	label	node	#C44E52	1	bold
+seq0074	label	node	#4C72B0	1	bold
+seq0077	label	node	#4C72B0	1	bold
+seq0078	label	node	#4C72B0	1	bold
+seq0080	label	node	#4C72B0	1	bold
+seq0082	label	node	#4C72B0	1	bold
+seq0083	label	node	#4C72B0	1	bold
+seq0088	label	node	#4C72B0	1	bold
+seq0090	label	node	#4C72B0	1	bold
+seq0091	label	node	#4C72B0	1	bold
+seq0092	label	node	#4C72B0	1	bold
+seq0095	label	node	#4C72B0	1	bold
+seq0100	label	node	#4C72B0	1	bold
+seq0108	label	node	#4C72B0	1	bold
+seq0120	label	node	#4C72B0	1	bold
+seq0135	label	node	#4C72B0	1	bold
+seq0136	label	node	#4C72B0	1	bold
+seq0141	label	node	#C44E52	1	bold
+seq0142	label	node	#C44E52	1	bold
+seq0152	label	node	#C44E52	1	bold
+seq0155	label	node	#C44E52	1	bold
+seq0157	label	node	#C44E52	1	bold
+seq0158	label	node	#C44E52	1	bold
+seq0159	label	node	#C44E52	1	bold
+seq0160	label	node	#C44E52	1	bold
+seq0161	label	node	#C44E52	1	bold
+seq0162	label	node	#C44E52	1	bold
+seq0163	label	node	#C44E52	1	bold
+seq0164	label	node	#4C72B0	1	bold
+seq0165	label	node	#4C72B0	1	bold
+seq0166	label	node	#4C72B0	1	bold
+seq0167	label	node	#4C72B0	1	bold
+seq0168	label	node	#4C72B0	1	bold
+seq0169	label	node	#4C72B0	1	bold
+seq0170	label	node	#4C72B0	1	bold
+seq0178	label	node	#C44E52	1	bold
+seq0179	label	node	#C44E52	1	bold
+seq0191	label	node	#C44E52	1	bold
+seq0193	label	node	#C44E52	1	bold
+seq0206	label	node	#C44E52	1	bold
+seq0207	label	node	#C44E52	1	bold
+seq0209	label	node	#C44E52	1	bold
+seq0210	label	node	#C44E52	1	bold
+seq0213	label	node	#C44E52	1	bold
+seq0221	label	node	#C44E52	1	bold
+seq0222	label	node	#C44E52	1	bold
+seq0225	label	node	#C44E52	1	bold
