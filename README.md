@@ -75,6 +75,23 @@ structural mapping of the candidate residues.
 | `ancd1_fgd_like_positions_renum.csv` | Positions where AncD1 carries the FGD-type residue despite its FSD-clade placement |
 | `trimcol_to_ancd1.json` | Trimmed-alignment column → mature AncD1 residue mapping |
 
+### Not part of this project
+
+This repository also holds my coursework from the rest of the semester. These
+files are unrelated to the AncD1 analysis and are not referenced by it:
+
+`Bioinformatics_Module03.ipynb` · `Real_3_GWAS_Tutorial.ipynb` ·
+`Real_Gut_to_Soil_QIIME2.ipynb` · `Real_MAFFT+trimal+vis.ipynb` ·
+`Real_Module10_Classifiers_Responder_vs_Nonresponder.ipynb` ·
+`Real_Supervised_Learning_Loss_and_Gradient_Descent.ipynb` ·
+`Real_Unsupervised_Learning_PCA_and_Clustering.ipynb` ·
+`Scanpy_Basics_Tutorial.ipynb`
+
+`docs/ai_usage.md` is the running AI-use log for the course as a whole, kept
+separately from the project disclosure in `ai_usage.md` at the root.
+
+---
+
 All `.csv` files whose name ends `_renum` use mature AncD1 numbering. Earlier
 versions of these files numbered positions by trimmed-alignment column, which does
 not correspond to residue number; those versions are superseded and are not
