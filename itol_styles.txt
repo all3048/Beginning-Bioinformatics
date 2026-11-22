@@ -14,8 +14,6 @@ seq0063	label	node	#C44E52	1	bold
 seq0064	label	node	#C44E52	1	bold
 seq0074	label	node	#4C72B0	1	bold
 seq0077	label	node	#4C72B0	1	bold
-seq0078	label	node	#4C72B0	1	bold
-seq0080	label	node	#4C72B0	1	bold
 seq0082	label	node	#4C72B0	1	bold
 seq0083	label	node	#4C72B0	1	bold
 seq0088	label	node	#4C72B0	1	bold
@@ -24,7 +22,6 @@ seq0091	label	node	#4C72B0	1	bold
 seq0092	label	node	#4C72B0	1	bold
 seq0095	label	node	#4C72B0	1	bold
 seq0100	label	node	#4C72B0	1	bold
-seq0108	label	node	#4C72B0	1	bold
 seq0120	label	node	#4C72B0	1	bold
 seq0135	label	node	#4C72B0	1	bold
 seq0136	label	node	#4C72B0	1	bold

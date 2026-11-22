@@ -2,10 +2,10 @@ IQ-TREE multicore version 2.0.7 for Linux 64-bit built Apr  1 2024
 Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
 Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
 
-Host:    f515bafb09ab (AVX2, FMA3, 12 GB RAM)
+Host:    2e999b608b7c (AVX2, FMA3, 12 GB RAM)
 Command: iqtree -s aln_trimmed.fasta -te tree_rooted_outgroup.nwk -m LG+F+I+G4 --ancestral -nt 2 -redo -pre ancd1_asr
-Seed:    919473 (Using SPRNG - Scalable Parallel Random Number Generator)
-Time:    Sat Nov  7 19:42:08 2026
+Seed:    390743 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Oct 28 13:41:05 2026
 Kernel:  AVX+FMA - 2 threads (2 CPU cores detected)
 
 Reading alignment file aln_trimmed.fasta ... Fasta format detected
@@ -258,28 +258,28 @@ Reading input tree file tree_rooted_outgroup.nwk ... rooted tree
 NOTE: 49 MB RAM (0 GB) is required!
 Estimate model parameters (epsilon = 0.010)
 Thoroughly optimizing +I+G parameters from 10 start values...
-Init pinv, alpha: 0.000, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
-Init pinv, alpha: 0.001, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
-Init pinv, alpha: 0.002, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
-Init pinv, alpha: 0.003, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
-Init pinv, alpha: 0.004, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
-Init pinv, alpha: 0.005, 1.000 / Estimate: 0.008, 0.997 / LogL: -59084.968
-Init pinv, alpha: 0.006, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
-Init pinv, alpha: 0.007, 1.000 / Estimate: 0.008, 0.996 / LogL: -59084.968
-Init pinv, alpha: 0.009, 1.000 / Estimate: 0.008, 0.997 / LogL: -59084.968
-Init pinv, alpha: 0.010, 1.000 / Estimate: 0.008, 0.997 / LogL: -59084.968
-Optimal pinv,alpha: 0.008, 0.997 / LogL: -59084.968
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.008, 1.000 / LogL: -59082.218
+Init pinv, alpha: 0.001, 1.000 / Estimate: 0.008, 1.000 / LogL: -59082.218
+Init pinv, alpha: 0.002, 1.000 / Estimate: 0.008, 1.000 / LogL: -59082.218
+Init pinv, alpha: 0.003, 1.000 / Estimate: 0.008, 1.000 / LogL: -59082.218
+Init pinv, alpha: 0.004, 1.000 / Estimate: 0.008, 1.000 / LogL: -59082.219
+Init pinv, alpha: 0.005, 1.000 / Estimate: 0.008, 1.000 / LogL: -59082.219
+Init pinv, alpha: 0.006, 1.000 / Estimate: 0.008, 1.000 / LogL: -59082.219
+Init pinv, alpha: 0.007, 1.000 / Estimate: 0.008, 1.000 / LogL: -59082.218
+Init pinv, alpha: 0.009, 1.000 / Estimate: 0.009, 1.000 / LogL: -59082.218
+Init pinv, alpha: 0.010, 1.000 / Estimate: 0.009, 1.000 / LogL: -59082.218
+Optimal pinv,alpha: 0.008, 1.000 / LogL: -59082.218
 
-Parameters optimization took 31.931 sec
-BEST SCORE FOUND : -59084.968
+Parameters optimization took 21.814 sec
+BEST SCORE FOUND : -59082.218
 Ancestral state probabilities printed to ancd1_asr.state
-Total tree length: 65.900
+Total tree length: 65.909
 
 Total number of iterations: 0
 CPU time used for tree search: 0.000 sec (0h:0m:0s)
 Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
-Total CPU time used: 57.601 sec (0h:0m:57s)
-Total wall-clock time used: 32.932 sec (0h:0m:32s)
+Total CPU time used: 40.577 sec (0h:0m:40s)
+Total wall-clock time used: 22.602 sec (0h:0m:22s)
 
 Analysis results written to: 
   IQ-TREE report:                ancd1_asr.iqtree
@@ -287,4 +287,4 @@ Analysis results written to:
   Ancestral state:               ancd1_asr.state
   Screen log file:               ancd1_asr.log
 
-Date and Time: Sat Nov  7 19:42:41 2026
+Date and Time: Wed Oct 28 13:41:28 2026

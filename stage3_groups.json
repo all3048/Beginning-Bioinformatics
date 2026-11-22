@@ -31,7 +31,7 @@
    "seq0225"
   ],
   "clade_size": 28,
-  "support": "99.4/100",
+  "support": "99.3/100",
   "excluded": [
    "FGD2_Mtub"
   ]
@@ -42,8 +42,6 @@
    "seq0009",
    "seq0074",
    "seq0077",
-   "seq0078",
-   "seq0080",
    "seq0082",
    "seq0083",
    "seq0088",
@@ -52,7 +50,6 @@
    "seq0092",
    "seq0095",
    "seq0100",
-   "seq0108",
    "seq0120",
    "seq0135",
    "seq0136",
@@ -64,8 +61,8 @@
    "seq0169",
    "seq0170"
   ],
-  "clade_size": 26,
-  "support": "99/99",
+  "clade_size": 23,
+  "support": "92.6/99",
   "excluded": [
    "AncD1"
   ]
@@ -74,7 +71,7 @@
  "alternates": {
   "FGD": {
    "size": 27,
-   "support": "82.9/97",
+   "support": "80.4/99",
    "tips": [
     "seq0002",
     "seq0004",
@@ -107,7 +104,7 @@
   },
   "FSD": {
    "size": 55,
-   "support": "95.6/100",
+   "support": "97.5/100",
    "tips": [
     "seq0005",
     "seq0009",
