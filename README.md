@@ -75,6 +75,21 @@ structural mapping of the candidate residues.
 | `ancd1_fgd_like_positions_renum.csv` | Positions where AncD1 carries the FGD-type residue despite its FSD-clade placement |
 | `trimcol_to_ancd1.json` | Trimmed-alignment column → mature AncD1 residue mapping |
 
+### Predicted structures
+
+| File | What it is |
+|---|---|
+| `stage4_sequences.fasta` | AncD1 and the three ancestors at full length, rebuilt from the untrimmed alignment (a column is kept where more than half of that node's descendants carry a residue) |
+| `AncD1.pdb` | ESMFold model of AncD1, mean pLDDT 92.5 |
+| `NodeC_common_ancestor.pdb`, `NodeF_FGD_ancestor.pdb`, `NodeS_FSD_ancestor.pdb` | ESMFold models of the three reconstructed ancestors |
+| `plddt_summary.json` | Mean and per-residue pLDDT for each model |
+
+ESMFold was used rather than AlphaFold because it predicts from the single
+sequence with no database lookup, so the same input returns the same structure
+on any run. Only the AncD1 model is reported in the final report; the ancestor
+models were built from an earlier reconstruction and the pocket comparison
+between them is listed as future work.
+
 ### Not part of this project
 
 This repository also holds my coursework from the rest of the semester. These
